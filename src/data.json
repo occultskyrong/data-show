@@ -1,0 +1,4074 @@
+[
+  {
+    "romId": "666885",
+    "time": "2022/07/29",
+    "model": "DNN-L29 - C185",
+    "os": "DNN-LGRP2-OVS 3.1.1.210",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c2/v3/tu9zpm03SLuza8QPSNqPoA/full/filelist.xml"
+  },
+  {
+    "romId": "666885",
+    "time": "2022/07/29",
+    "model": "DNN-L29 - C10",
+    "os": "DNN-LGRP2-OVS 3.1.1.210",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c2/v3/tu9zpm03SLuza8QPSNqPoA/full/filelist.xml"
+  },
+  {
+    "romId": "666015",
+    "time": "2022/07/29",
+    "model": "DNN-L29 - C432",
+    "os": "DNN-LGRP2-OVS 3.1.1.210",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/46/v3/_y6tssEKSLWc4vdHOGrS3w/full/filelist.xml"
+  },
+  {
+    "romId": "665888",
+    "time": "2022/08/02",
+    "model": "PPAH-L22 - C636",
+    "os": "PPAH-LGRP2-OVS 10.1.1.260",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ba/v3/zIGHUFJ8SO-ye6i14kD1Ag/full/filelist.xml"
+  },
+  {
+    "romId": "665885",
+    "time": "2022/07/29",
+    "model": "NEN-L22CQ - C636",
+    "os": "NEN-LGRP2-OVS 11.0.1.218",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7e/v3/_qGtNB-ZQPCwya_eBLZIMQ/full/filelist.xml"
+  },
+  {
+    "romId": "665860",
+    "time": "2022/08/09",
+    "model": "PPAH-L21 - C432",
+    "os": "PPAH-LGRP2-OVS 10.1.1.260",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cf/v3/me_v7lnUTaWC7P7ocMd5BA/full/filelist.xml"
+  },
+  {
+    "romId": "665359",
+    "time": "2022/08/03",
+    "model": "KOB2-W09 - C10",
+    "os": "KOB2-LGRP4-OVS 10.1.0.220",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/DCSBmecwSSiPqgy30RBsyQ/full/filelist.xml"
+  },
+  {
+    "romId": "665085",
+    "time": "2022/08/02",
+    "model": "KOB2K-W09K - C185",
+    "os": "KOB2K-LGRP4-OVS 10.1.0.109",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7f/v3/09weSNRLQmihOCY5RI0nNA/full/filelist.xml"
+  },
+  {
+    "romId": "665085",
+    "time": "2022/08/02",
+    "model": "KOB2K-W09S - C185",
+    "os": "KOB2K-LGRP4-OVS 10.1.0.109",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7f/v3/09weSNRLQmihOCY5RI0nNA/full/filelist.xml"
+  },
+  {
+    "romId": "665004",
+    "time": "2022/07/28",
+    "model": "NEN-L01CQ - C185",
+    "os": "NEN-LGRP2-OVS 11.0.1.218",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/bX86VeYvSVaa0JmFa0NOcg/full/filelist.xml"
+  },
+  {
+    "romId": "665004",
+    "time": "2022/07/28",
+    "model": "NEN-L21CQ - C10",
+    "os": "NEN-LGRP2-OVS 11.0.1.218",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/bX86VeYvSVaa0JmFa0NOcg/full/filelist.xml"
+  },
+  {
+    "romId": "665004",
+    "time": "2022/07/28",
+    "model": "NEN-L22CQ - C185",
+    "os": "NEN-LGRP2-OVS 11.0.1.218",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/bX86VeYvSVaa0JmFa0NOcg/full/filelist.xml"
+  },
+  {
+    "romId": "664325",
+    "time": "2022/08/05",
+    "model": "NEN-L21CQ - C432",
+    "os": "NEN-LGRP2-OVS 11.0.1.219",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/EV7pRPGCQ32r3TxdJSRcSg/full/filelist.xml"
+  },
+  {
+    "romId": "664290",
+    "time": "2022/08/03",
+    "model": "KOB2-L09 - C636",
+    "os": "KOB2-LGRP2-OVS 10.1.0.220",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/33/v3/vaAnq2I-QEGKTJq4zoT4qA/full/filelist.xml"
+  },
+  {
+    "romId": "663253",
+    "time": "2022/07/12",
+    "model": "ANA-AN00 - C700",
+    "os": "ANA-AN00-PRELOAD 10.1.0.525(L26C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/92/v3/Y26OPE3TT--m3Ysmq4gE7g/full/filelist.xml"
+  },
+  {
+    "romId": "663124",
+    "time": "2022/07/21",
+    "model": "WKG-L09 - C185",
+    "os": "WKG-LGRP2-OVS 11.0.1.174",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4f/v3/Vn1Fw5cdT4Oc7ybQ1Lew6g/full/filelist.xml"
+  },
+  {
+    "romId": "663124",
+    "time": "2022/07/21",
+    "model": "WKG-L29 - C185",
+    "os": "WKG-LGRP2-OVS 11.0.1.174",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4f/v3/Vn1Fw5cdT4Oc7ybQ1Lew6g/full/filelist.xml"
+  },
+  {
+    "romId": "662801",
+    "time": "2022/08/02",
+    "model": "KOB2K-W09S - C635",
+    "os": "KOB2K-W09S-PRELOAD 10.1.0.1(C635R1)",
+    "region": "hw-jp",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/63/v3/pTwoYlpPRaaOJjK1XRitEQ/full/filelist.xml"
+  },
+  {
+    "romId": "662800",
+    "time": "2022/08/02",
+    "model": "KOB2K-W09S - C635",
+    "os": "KOB2K-W09S-CUST 10.1.0.1(C635)",
+    "region": "hw-jp",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/df/v3/fSbJNS7oTieAQo_VuiSEVw/full/filelist.xml"
+  },
+  {
+    "romId": "662232",
+    "time": "2022/07/26",
+    "model": "AGRK-W29 - C635",
+    "os": "AGRK-W29-PRELOAD 10.1.0.1(C635R1)",
+    "region": "hw-jp",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c7/v3/stmcivQ_Q7u1lVwKrLKXiw/full/filelist.xml"
+  },
+  {
+    "romId": "662231",
+    "time": "2022/07/26",
+    "model": "AGRK-W29 - C635",
+    "os": "AGRK-W29-CUST 10.1.0.10(C635)",
+    "region": "hw-jp",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ed/v3/VinRV8vXTPSJe-5kVZ63AA/full/filelist.xml"
+  },
+  {
+    "romId": "662167",
+    "time": "2022/07/08",
+    "model": "TAS-AN00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.527(L74C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e9/v3/Ew5beCVWQZakqXZ64twAVA/full/filelist.xml"
+  },
+  {
+    "romId": "662167",
+    "time": "2022/07/08",
+    "model": "TAS-AL00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.527(L74C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e9/v3/Ew5beCVWQZakqXZ64twAVA/full/filelist.xml"
+  },
+  {
+    "romId": "662165",
+    "time": "2022/07/11",
+    "model": "TAS-AN00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.547(L74C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9f/v3/EvCYc3VZT4y617jKsA76Tg/full/filelist.xml"
+  },
+  {
+    "romId": "662165",
+    "time": "2022/07/11",
+    "model": "TAS-AL00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.547(L74C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9f/v3/EvCYc3VZT4y617jKsA76Tg/full/filelist.xml"
+  },
+  {
+    "romId": "659310",
+    "time": "2022/08/01",
+    "model": "KOB2K-W09K - C185",
+    "os": "KOB2K-W09K-PRELOAD 10.1.0.1(C185R1)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/05/v3/BcPMXtj2SJekdPKx9rDlKw/full/filelist.xml"
+  },
+  {
+    "romId": "659309",
+    "time": "2022/08/01",
+    "model": "KOB2K-W09K - C185",
+    "os": "KOB2K-W09K-CUST 10.1.0.1(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d3/v3/rgOep-sTRqyIWMa7lf3T3g/full/filelist.xml"
+  },
+  {
+    "romId": "659191",
+    "time": "2022/07/22",
+    "model": "KOB2K-W09S - C185",
+    "os": "KOB2K-W09S-PRELOAD 10.1.0.1(C185R1)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d6/v3/zKOCDnEJQRSiuC_RWubmfg/full/filelist.xml"
+  },
+  {
+    "romId": "659190",
+    "time": "2022/07/22",
+    "model": "KOB2K-W09S - C185",
+    "os": "KOB2K-W09S-CUST 10.1.0.1(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f6/v3/VTkhPJBsQU6wW7BheIJI5w/full/filelist.xml"
+  },
+  {
+    "romId": "658858",
+    "time": "2022/06/27",
+    "model": "TAS-AN00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.527(L72C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7d/v3/0ezXwqMwS_OFukJd6X7v5g/full/filelist.xml"
+  },
+  {
+    "romId": "658858",
+    "time": "2022/06/27",
+    "model": "TAS-AL00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.527(L72C700R440)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7d/v3/0ezXwqMwS_OFukJd6X7v5g/full/filelist.xml"
+  },
+  {
+    "romId": "658416",
+    "time": "2022/06/30",
+    "model": "OCE-AN50E - C00",
+    "os": "OCE-LGRP9-CHN 102.0.0.263",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/68/v3/vJtH02pJSJ6tWSIj5X5tQA/full/filelist.xml"
+  },
+  {
+    "romId": "658416",
+    "time": "2022/06/30",
+    "model": "OCE-AN50 - C00",
+    "os": "OCE-LGRP9-CHN 102.0.0.263",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/68/v3/vJtH02pJSJ6tWSIj5X5tQA/full/filelist.xml"
+  },
+  {
+    "romId": "657308",
+    "time": "2022/06/21",
+    "model": "PPAH-AL40 - C00",
+    "os": "PPA-LGRP1-CHN 10.1.1.175",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/62/v3/EqeKVdpwThmVYWk7nvz5pA/full/filelist.xml"
+  },
+  {
+    "romId": "657308",
+    "time": "2022/06/21",
+    "model": "PPAH-TL20 - C01",
+    "os": "PPA-LGRP1-CHN 10.1.1.175",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/62/v3/EqeKVdpwThmVYWk7nvz5pA/full/filelist.xml"
+  },
+  {
+    "romId": "657308",
+    "time": "2022/06/21",
+    "model": "PPAH-AL20 - C00",
+    "os": "PPA-LGRP1-CHN 10.1.1.175",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/62/v3/EqeKVdpwThmVYWk7nvz5pA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29 - C185",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29 - C636",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29 - C432",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29 - C10",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29K - C185",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29K - C432",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656341",
+    "time": "2022/07/21",
+    "model": "AGRK-W29K - C10",
+    "os": "AGRK-LGRP10-OVS 10.1.0.112",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/IPBPHW_HRL6xUJOnUCghrA/full/filelist.xml"
+  },
+  {
+    "romId": "656088",
+    "time": "2022/07/20",
+    "model": "AGRK-L29 - C185",
+    "os": "AGRK-LGRP8-OVS 10.1.0.111",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/76/v3/EphNqIbnQvWRSQma8XRHxQ/full/filelist.xml"
+  },
+  {
+    "romId": "656088",
+    "time": "2022/07/20",
+    "model": "AGRK-L29 - C636",
+    "os": "AGRK-LGRP8-OVS 10.1.0.111",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/76/v3/EphNqIbnQvWRSQma8XRHxQ/full/filelist.xml"
+  },
+  {
+    "romId": "656088",
+    "time": "2022/07/20",
+    "model": "AGRK-L29 - C432",
+    "os": "AGRK-LGRP8-OVS 10.1.0.111",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/76/v3/EphNqIbnQvWRSQma8XRHxQ/full/filelist.xml"
+  },
+  {
+    "romId": "656088",
+    "time": "2022/07/20",
+    "model": "AGRK-L29 - C10",
+    "os": "AGRK-LGRP8-OVS 10.1.0.111",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/76/v3/EphNqIbnQvWRSQma8XRHxQ/full/filelist.xml"
+  },
+  {
+    "romId": "656015",
+    "time": "2022/06/30",
+    "model": "EBG-N19 - C10",
+    "os": "EBG-LGRP2-OVS 11.0.0.213",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2b/v3/Vfs369hKRSSNCK8_GY1RZQ/full/filelist.xml"
+  },
+  {
+    "romId": "655866",
+    "time": "2022/07/07",
+    "model": "BMH-N19 - C10",
+    "os": "BMH-LGRP2-OVS 11.0.0.172",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/43/v3/90lLKV8YTVe8kLOncv8opQ/full/filelist.xml"
+  },
+  {
+    "romId": "655790",
+    "time": "2022/07/07",
+    "model": "ARTH-L29N - C185",
+    "os": "ART-LGRP2-OVS 10.1.0.258",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d7/v3/qdM-bw-HRFCjdCDxhuaVSw/full/filelist.xml"
+  },
+  {
+    "romId": "655790",
+    "time": "2022/07/07",
+    "model": "ARTH-L29N - C10",
+    "os": "ART-LGRP2-OVS 10.1.0.258",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d7/v3/qdM-bw-HRFCjdCDxhuaVSw/full/filelist.xml"
+  },
+  {
+    "romId": "655790",
+    "time": "2022/07/07",
+    "model": "ARTH-L29 - C10",
+    "os": "ART-LGRP2-OVS 10.1.0.258",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d7/v3/qdM-bw-HRFCjdCDxhuaVSw/full/filelist.xml"
+  },
+  {
+    "romId": "655670",
+    "time": "2022/06/27",
+    "model": "OCE-AN50E - C00",
+    "os": "OCE-AN50e-CUST 11.0.0.200(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e/v3/AAl3caZFRLq--M574x5rSw/full/filelist.xml"
+  },
+  {
+    "romId": "655669",
+    "time": "2022/06/27",
+    "model": "OCE-AN50E - C00",
+    "os": "OCE-AN50e-PRELOAD 11.0.0.1(C00R10)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/62/v3/KvOMspUYSNC8iiEy3Oz76Q/full/filelist.xml"
+  },
+  {
+    "romId": "655668",
+    "time": "2022/06/27",
+    "model": "OCE-AN50E - C00",
+    "os": "OCE-LGRP9-CHN 11.0.0.208",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/tqH3uCsiTMGJJ_LxqkiwbA/full/filelist.xml"
+  },
+  {
+    "romId": "655496",
+    "time": "2022/07/11",
+    "model": "MOA-L49I - C185",
+    "os": "MOA-LGRP2-OVS 3.1.0.267",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a2/v3/7WoB_as5T1C4cpEJnMm_Mg/full/filelist.xml"
+  },
+  {
+    "romId": "655253",
+    "time": "2022/07/12",
+    "model": "NEN-L21CQ - C432",
+    "os": "NEN-LGRP2-OVS 11.0.1.215",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/83/v3/MvYEKEESS8G9obl8M6jAaQ/full/filelist.xml"
+  },
+  {
+    "romId": "655116",
+    "time": "2022/06/14",
+    "model": "VCE-L22 - C636",
+    "os": "VCE-LGRP2-OVS 9.0.1.123",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bc/v3/UcARIFkFQsqnndksXtpWLQ/full/filelist.xml"
+  },
+  {
+    "romId": "655067",
+    "time": "2022/06/28",
+    "model": "NEN-L01CQ - C185",
+    "os": "NEN-LGRP2-OVS 11.0.1.214",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/31/v3/Q3NUJ9sYQ1KuUhjL4vc3OQ/full/filelist.xml"
+  },
+  {
+    "romId": "655067",
+    "time": "2022/06/28",
+    "model": "NEN-L21CQ - C10",
+    "os": "NEN-LGRP2-OVS 11.0.1.214",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/31/v3/Q3NUJ9sYQ1KuUhjL4vc3OQ/full/filelist.xml"
+  },
+  {
+    "romId": "655067",
+    "time": "2022/06/28",
+    "model": "NEN-L22CQ - C185",
+    "os": "NEN-LGRP2-OVS 11.0.1.214",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/31/v3/Q3NUJ9sYQ1KuUhjL4vc3OQ/full/filelist.xml"
+  },
+  {
+    "romId": "655006",
+    "time": "2022/06/27",
+    "model": "DUA-L29 - C432",
+    "os": "DUA-LGRP4-OVS 3.1.0.183",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cd/v3/n-BmKHyLS26cbbEOleatVg/full/filelist.xml"
+  },
+  {
+    "romId": "654974",
+    "time": "2022/06/23",
+    "model": "ARTH-L29N - C432",
+    "os": "ART-LGRP2-OVS 10.1.0.258",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/81/v3/9kbFEmAVRvOQAmPQUZB2qw/full/filelist.xml"
+  },
+  {
+    "romId": "654974",
+    "time": "2022/06/23",
+    "model": "ARTH-L29 - C432",
+    "os": "ART-LGRP2-OVS 10.1.0.258",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/81/v3/9kbFEmAVRvOQAmPQUZB2qw/full/filelist.xml"
+  },
+  {
+    "romId": "654793",
+    "time": "2022/06/16",
+    "model": "PPAH-L22 - C636",
+    "os": "PPAH-LGRP2-OVS 10.1.1.252",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c9/v3/ZK1Sldz_TdqJIPDvPrDO7A/full/filelist.xml"
+  },
+  {
+    "romId": "654692",
+    "time": "2022/07/14",
+    "model": "JAT-L03HW - C605",
+    "os": "JAT-L03HW-CUST 9.1.0.4(C605)",
+    "region": "hw-la",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/55/v3/fMWMNwCWRn-qUsHhrj6pfQ/full/filelist.xml"
+  },
+  {
+    "romId": "654559",
+    "time": "2022/07/08",
+    "model": "AKA-AL10 - C00",
+    "os": "AKA-LGRP1-CHN 3.1.0.165",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5b/v3/sSxoblYuRkKgZRHP-b13Ew/full/filelist.xml"
+  },
+  {
+    "romId": "654548",
+    "time": "2022/06/30",
+    "model": "AKA-AL20 - C00",
+    "os": "AKA-LGRP3-CHN 3.1.0.167",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d3/v3/fE4LHrIBQVSChezgxqb3Wg/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-AL20 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-TL00 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-TL00 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-AL00 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-AL20 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-AL20 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-TL00 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-AL00 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654136",
+    "time": "2022/06/23",
+    "model": "MED-AL00 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.227",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/KJz52E76T_KvMQqS0RGRXw/full/filelist.xml"
+  },
+  {
+    "romId": "654105",
+    "time": "2022/06/10",
+    "model": "NOH-AN01 - C700",
+    "os": "NOH-AN01-PRELOAD 11.0.0.009(L46C700R361)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d3/v3/FkJ7YhlqQNa8yuyH-Cns4g/full/filelist.xml"
+  },
+  {
+    "romId": "654060",
+    "time": "2022/06/10",
+    "model": "NOH-AN00 - C700",
+    "os": "NOH-AN00-PRELOAD 11.0.0.009(L46C700R361)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ab/v3/5cOb61rMQzmx_QMiTT8LsQ/full/filelist.xml"
+  },
+  {
+    "romId": "653891",
+    "time": "2022/06/09",
+    "model": "ANA-AN00 - C700",
+    "os": "ANA-AN00-PRELOAD 10.1.0.005(L24C700R361)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/38/v3/_-7nQx9TRue113q627cCKA/full/filelist.xml"
+  },
+  {
+    "romId": "653857",
+    "time": "2022/07/11",
+    "model": "ELS-N04 - C792",
+    "os": "ELS-LGRP4-OVS 11.0.0.278",
+    "region": "hw-ca",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2f/v3/BSW38FfXTL6r4lA1zuV6FQ/full/filelist.xml"
+  },
+  {
+    "romId": "653809",
+    "time": "2022/07/11",
+    "model": "ANA-L04 - C792",
+    "os": "ANA-LGRP2-OVS 11.0.0.258",
+    "region": "hw-ca",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/34/v3/mwbna-_aTjK-rZYFlFU0yg/full/filelist.xml"
+  },
+  {
+    "romId": "653447",
+    "time": "2022/07/21",
+    "model": "WKG-L09 - C185",
+    "os": "WKG-LGRP2-OVS 11.0.1.172",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b6/v3/Nme75Y2LQcOnP-nvcMm7TQ/full/filelist.xml"
+  },
+  {
+    "romId": "653447",
+    "time": "2022/07/21",
+    "model": "WKG-L29 - C185",
+    "os": "WKG-LGRP2-OVS 11.0.1.172",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b6/v3/Nme75Y2LQcOnP-nvcMm7TQ/full/filelist.xml"
+  },
+  {
+    "romId": "653408",
+    "time": "2022/06/30",
+    "model": "POT-L03 - C25",
+    "os": "POT-LX3-CUST 10.0.0.11(C25)",
+    "region": "claro-la",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fb/v3/AAszvFYbS568O9w1cgdeYg/full/filelist.xml"
+  },
+  {
+    "romId": "653285",
+    "time": "2022/06/10",
+    "model": "DUA-L29 - C636",
+    "os": "DUA-LGRP4-OVS 3.1.0.181",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/eb/v3/bzRzgfhjQ5OJ3hczKS1xwg/full/filelist.xml"
+  },
+  {
+    "romId": "653285",
+    "time": "2022/06/10",
+    "model": "DUA-L29 - C675",
+    "os": "DUA-LGRP4-OVS 3.1.0.181",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/eb/v3/bzRzgfhjQ5OJ3hczKS1xwg/full/filelist.xml"
+  },
+  {
+    "romId": "653057",
+    "time": "2022/06/30",
+    "model": "SHT-AL09 - C00",
+    "os": "SHT-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/64/v3/mv7LEgE8SLCmujIeG21NBw/full/filelist.xml"
+  },
+  {
+    "romId": "653019",
+    "time": "2022/07/06",
+    "model": "AGS2-W09HN - C00",
+    "os": "AGS2-LGRP5-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/37/v3/hOY8t0wSSPe-UuyH4uyqKw/full/filelist.xml"
+  },
+  {
+    "romId": "652732",
+    "time": "2022/07/06",
+    "model": "AGS2-AL00HN - C00",
+    "os": "AGS2-LGRP7-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/73/v3/09pGKVycRduKey_ud6L5PA/full/filelist.xml"
+  },
+  {
+    "romId": "652708",
+    "time": "2022/06/16",
+    "model": "STK-L22HN - C675",
+    "os": "STK-LGRP8-OVS 10.0.0.370",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/39/v3/_L0EtCvDTWWvG-rK59PxDQ/full/filelist.xml"
+  },
+  {
+    "romId": "652708",
+    "time": "2022/06/16",
+    "model": "STK-L23BHN - C636",
+    "os": "STK-LGRP8-OVS 10.0.0.370",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/39/v3/_L0EtCvDTWWvG-rK59PxDQ/full/filelist.xml"
+  },
+  {
+    "romId": "652692",
+    "time": "2022/07/07",
+    "model": "JDN2-W09 - C00",
+    "os": "JDN2-LGRP3-CHN 102.0.0.230(SP1)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6e/v3/9C3jRE_1TzOrGLUFNY1LTw/full/filelist.xml"
+  },
+  {
+    "romId": "652692",
+    "time": "2022/07/07",
+    "model": "JDN2-W09HN - C00",
+    "os": "JDN2-LGRP3-CHN 102.0.0.230(SP1)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6e/v3/9C3jRE_1TzOrGLUFNY1LTw/full/filelist.xml"
+  },
+  {
+    "romId": "652512",
+    "time": "2022/06/30",
+    "model": "CMR-W19 - C00",
+    "os": "CMR-LGRP3-CHN 102.0.0.231",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6c/v3/reTIjeT6Rz-mo9LvQVMWeA/full/filelist.xml"
+  },
+  {
+    "romId": "652121",
+    "time": "2022/06/08",
+    "model": "NEN-L22CQ - C636",
+    "os": "NEN-LGRP2-OVS 11.0.1.212",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/qclCl2ePTeiM7hWyk_s-3w/full/filelist.xml"
+  },
+  {
+    "romId": "652000",
+    "time": "2022/06/13",
+    "model": "MOA-L49I - C675",
+    "os": "MOA-LGRP2-OVS 3.1.0.266",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/34/v3/zNRG2OTtQL2I9iG9oLBgOg/full/filelist.xml"
+  },
+  {
+    "romId": "652000",
+    "time": "2022/06/13",
+    "model": "MOA-L49 - C636",
+    "os": "MOA-LGRP2-OVS 3.1.0.266",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/34/v3/zNRG2OTtQL2I9iG9oLBgOg/full/filelist.xml"
+  },
+  {
+    "romId": "651999",
+    "time": "2022/06/14",
+    "model": "STK-L22DV - C675",
+    "os": "STK-LGRP6-OVS 10.0.0.496",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bc/v3/viGTdpEwSmOXg3XvfXJpXQ/full/filelist.xml"
+  },
+  {
+    "romId": "651993",
+    "time": "2022/07/11",
+    "model": "RVL-AL09 - C00",
+    "os": "RVL-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/58/v3/AlFOB01IReidjhFLgGEwWQ/full/filelist.xml"
+  },
+  {
+    "romId": "651904",
+    "time": "2022/08/03",
+    "model": "MAR-L21B - C10",
+    "os": "MAR-L21B-CUST 102.0.0.3(C10)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5c/v3/i4aCQVxkRBiFyPWuPknTcw/full/filelist.xml"
+  },
+  {
+    "romId": "651706",
+    "time": "2022/07/06",
+    "model": "AGS2-W09 - C00",
+    "os": "AGS2-LGRP3-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cc/v3/1YiH5klfQDaCttY_RNb4uA/full/filelist.xml"
+  },
+  {
+    "romId": "651704",
+    "time": "2022/07/06",
+    "model": "AGS2-AL00 - C00",
+    "os": "AGS2-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/FTdQYI6VQzWbotG5cZp8Xw/full/filelist.xml"
+  },
+  {
+    "romId": "651691",
+    "time": "2022/06/30",
+    "model": "SHT-W09 - C00",
+    "os": "SHT-LGRP3-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/2miVBBRNQAam1yAih1T2rg/full/filelist.xml"
+  },
+  {
+    "romId": "651513",
+    "time": "2022/08/08",
+    "model": "SNE-L01 - C431",
+    "os": "SNE-LGRP2-OVS 102.0.0.226",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/98/v3/YxGTb0ZyTB20qxJ5on4mXA/full/filelist.xml"
+  },
+  {
+    "romId": "651513",
+    "time": "2022/08/08",
+    "model": "SNE-L01 - C432",
+    "os": "SNE-LGRP2-OVS 102.0.0.226",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/98/v3/YxGTb0ZyTB20qxJ5on4mXA/full/filelist.xml"
+  },
+  {
+    "romId": "651471",
+    "time": "2022/06/20",
+    "model": "AKA-L29 - C185",
+    "os": "AKA-LGRP2-OVS 3.1.0.160",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/vppTlQMrQ4m38WE5kiT-qw/full/filelist.xml"
+  },
+  {
+    "romId": "651471",
+    "time": "2022/06/20",
+    "model": "AKA-L29 - C10",
+    "os": "AKA-LGRP2-OVS 3.1.0.160",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/vppTlQMrQ4m38WE5kiT-qw/full/filelist.xml"
+  },
+  {
+    "romId": "651183",
+    "time": "2022/07/07",
+    "model": "JDN2-W09 - C00",
+    "os": "JDN2-LGRP3-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/DXW7nuU3SRS2mbTSuKDe7Q/full/filelist.xml"
+  },
+  {
+    "romId": "651183",
+    "time": "2022/07/07",
+    "model": "JDN2-W09HN - C00",
+    "os": "JDN2-LGRP3-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/DXW7nuU3SRS2mbTSuKDe7Q/full/filelist.xml"
+  },
+  {
+    "romId": "651126",
+    "time": "2022/06/14",
+    "model": "DRA-L29 - C636",
+    "os": "DRA-LGRP2-OVS 10.1.0.261",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/64/v3/gpOvNlqsQa2hxL80Z5OHyg/full/filelist.xml"
+  },
+  {
+    "romId": "651124",
+    "time": "2022/06/15",
+    "model": "MED-L29 - C636",
+    "os": "MED-LGRP2-OVS 10.1.0.299",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/fDnWAaMVQwuR4N-LuvsJbQ/full/filelist.xml"
+  },
+  {
+    "romId": "651072",
+    "time": "2022/07/07",
+    "model": "JDN2-AL50HN - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/2oL5_FICRRC2QNLVdQunKQ/full/filelist.xml"
+  },
+  {
+    "romId": "651072",
+    "time": "2022/07/07",
+    "model": "JDN2-AL50 - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/2oL5_FICRRC2QNLVdQunKQ/full/filelist.xml"
+  },
+  {
+    "romId": "651072",
+    "time": "2022/07/07",
+    "model": "JDN2-AL00 - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/2oL5_FICRRC2QNLVdQunKQ/full/filelist.xml"
+  },
+  {
+    "romId": "651072",
+    "time": "2022/07/07",
+    "model": "JDN2-AL00HN - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/2oL5_FICRRC2QNLVdQunKQ/full/filelist.xml"
+  },
+  {
+    "romId": "650972",
+    "time": "2022/07/12",
+    "model": "POT-L01T - C431",
+    "os": "POT-LGRP4-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/30/v3/3oRta9x4Q8OHh2R63gxYVQ/full/filelist.xml"
+  },
+  {
+    "romId": "650972",
+    "time": "2022/07/12",
+    "model": "POT-L21T - C432",
+    "os": "POT-LGRP4-OVS 102.0.0.225",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/30/v3/3oRta9x4Q8OHh2R63gxYVQ/full/filelist.xml"
+  },
+  {
+    "romId": "650958",
+    "time": "2022/07/07",
+    "model": "JDN2-AL50HN - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230(SP1)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/_XynedCyRb-j0FeZkrYF6A/full/filelist.xml"
+  },
+  {
+    "romId": "650958",
+    "time": "2022/07/07",
+    "model": "JDN2-AL50 - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230(SP1)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/_XynedCyRb-j0FeZkrYF6A/full/filelist.xml"
+  },
+  {
+    "romId": "650958",
+    "time": "2022/07/07",
+    "model": "JDN2-AL00 - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230(SP1)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/_XynedCyRb-j0FeZkrYF6A/full/filelist.xml"
+  },
+  {
+    "romId": "650958",
+    "time": "2022/07/07",
+    "model": "JDN2-AL00HN - C00",
+    "os": "JDN2-LGRP1-CHN 102.0.0.230(SP1)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3a/v3/_XynedCyRb-j0FeZkrYF6A/full/filelist.xml"
+  },
+  {
+    "romId": "650849",
+    "time": "2022/08/01",
+    "model": "SNE-L21 - C431",
+    "os": "SNE-LGRP2-OVS 102.0.0.226",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/20/v3/mkl51TVESw6PMSRwXIzg1Q/full/filelist.xml"
+  },
+  {
+    "romId": "650849",
+    "time": "2022/08/01",
+    "model": "SNE-L21 - C432",
+    "os": "SNE-LGRP2-OVS 102.0.0.226",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/20/v3/mkl51TVESw6PMSRwXIzg1Q/full/filelist.xml"
+  },
+  {
+    "romId": "650801",
+    "time": "2022/06/30",
+    "model": "CMR-AL09 - C00",
+    "os": "CMR-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d4/v3/iq6AqR4fT1SNQMnvU6SLOg/full/filelist.xml"
+  },
+  {
+    "romId": "650801",
+    "time": "2022/06/30",
+    "model": "CMR-AL19 - C00",
+    "os": "CMR-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d4/v3/iq6AqR4fT1SNQMnvU6SLOg/full/filelist.xml"
+  },
+  {
+    "romId": "650135",
+    "time": "2022/07/06",
+    "model": "BAH2-W09 - C00",
+    "os": "BAH2-LGRP3-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3d/v3/vp64R_aVRNiO5JSgGURe0g/full/filelist.xml"
+  },
+  {
+    "romId": "649877",
+    "time": "2022/06/20",
+    "model": "PPAH-L21 - C10",
+    "os": "PPAH-LGRP2-OVS 10.1.1.256",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f5/v3/sqS4XMXQS8-cSuzpOShTbg/full/filelist.xml"
+  },
+  {
+    "romId": "649686",
+    "time": "2022/05/31",
+    "model": "MOA-L49 - C432",
+    "os": "MOA-LGRP2-OVS 3.1.0.266",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/l_XIOhOKSm2BDcQJ9-CpHw/full/filelist.xml"
+  },
+  {
+    "romId": "649218",
+    "time": "2022/07/13",
+    "model": "EML-L29 - C431",
+    "os": "EML-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f8/v3/HzDqOFt9SnGr-z_u3RQS4g/full/filelist.xml"
+  },
+  {
+    "romId": "649212",
+    "time": "2022/07/13",
+    "model": "EML-L29 - C431",
+    "os": "EML-L29-CUST 102.0.0.5(C431)",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/r0TWbpmBTEafIKy2R1yhXw/full/filelist.xml"
+  },
+  {
+    "romId": "648951",
+    "time": "2022/05/31",
+    "model": "AKA-AL20 - C00",
+    "os": "AKA-LGRP3-CHN 3.1.0.166",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ae/v3/K9NnVUFWQm-EqjpPsEnvxA/full/filelist.xml"
+  },
+  {
+    "romId": "648683",
+    "time": "2022/06/13",
+    "model": "PPAH-AL40 - C00",
+    "os": "PPA-LGRP1-CHN 10.1.1.173",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a3/v3/VkjW8J_UQXKP3Iwvof4BNA/full/filelist.xml"
+  },
+  {
+    "romId": "648683",
+    "time": "2022/06/13",
+    "model": "PPAH-TL20 - C01",
+    "os": "PPA-LGRP1-CHN 10.1.1.173",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a3/v3/VkjW8J_UQXKP3Iwvof4BNA/full/filelist.xml"
+  },
+  {
+    "romId": "648683",
+    "time": "2022/06/13",
+    "model": "PPAH-AL20 - C00",
+    "os": "PPA-LGRP1-CHN 10.1.1.173",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a3/v3/VkjW8J_UQXKP3Iwvof4BNA/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-TL00 - C01",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-TL00 - C00",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-TL00 - C700",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-AL20 - C01",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-AL20 - C00",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-AL20 - C700",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-AL00 - C01",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-AL00 - C00",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648655",
+    "time": "2022/05/31",
+    "model": "MOA-AL00 - C700",
+    "os": "MOA-LGRP1-CHN 3.1.0.197",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/kS6gZbRPRiWaDsGhaGEtcw/full/filelist.xml"
+  },
+  {
+    "romId": "648494",
+    "time": "2022/06/16",
+    "model": "LRA-L21B - C10",
+    "os": "LRA-LGRP2-OVS 3.1.0.148",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/dw6pAw3IRIqZrGwIiEasPA/full/filelist.xml"
+  },
+  {
+    "romId": "648459",
+    "time": "2022/06/16",
+    "model": "DNN-L29 - C10",
+    "os": "DNN-LGRP2-OVS 3.1.1.206",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/ZPG7D6uhRVK8XidjHslhfg/full/filelist.xml"
+  },
+  {
+    "romId": "648192",
+    "time": "2022/05/31",
+    "model": "AKA-AL10 - C00",
+    "os": "AKA-LGRP1-CHN 3.1.0.164",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/04/v3/LYCbbqp-RkKq0n7WpQBStQ/full/filelist.xml"
+  },
+  {
+    "romId": "648109",
+    "time": "2022/07/27",
+    "model": "STK-L21M - C432",
+    "os": "STK-LGRP10-OVS 102.0.0.225",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/EdpJyPFYTk-xl3clDf1Fgw/full/filelist.xml"
+  },
+  {
+    "romId": "648109",
+    "time": "2022/08/08",
+    "model": "STK-L21UDV - C431",
+    "os": "STK-LGRP10-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/EdpJyPFYTk-xl3clDf1Fgw/full/filelist.xml"
+  },
+  {
+    "romId": "648109",
+    "time": "2022/08/08",
+    "model": "STK-L21UDV - C432",
+    "os": "STK-LGRP10-OVS 102.0.0.225",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/EdpJyPFYTk-xl3clDf1Fgw/full/filelist.xml"
+  },
+  {
+    "romId": "648085",
+    "time": "2022/08/04",
+    "model": "POT-L01 - C431",
+    "os": "POT-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/RLxsmcPdS3GRAvJmjnRhcQ/full/filelist.xml"
+  },
+  {
+    "romId": "648085",
+    "time": "2022/08/04",
+    "model": "POT-L01 - C432",
+    "os": "POT-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/RLxsmcPdS3GRAvJmjnRhcQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-TL00 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-AL00 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-AL20 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-AL20 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-AL20 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-TL00 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-TL00 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-AL00 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648009",
+    "time": "2022/05/30",
+    "model": "MED-AL00 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.223",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/FVr-EPFgQri8jNz0uV3HxQ/full/filelist.xml"
+  },
+  {
+    "romId": "648006",
+    "time": "2022/08/09",
+    "model": "MAR-L21B - C10",
+    "os": "MAR-LGRP2-OVS 102.0.0.225",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5c/v3/yJU3VbjJSd6EXjIg1IhxhQ/full/filelist.xml"
+  },
+  {
+    "romId": "647963",
+    "time": "2022/08/04",
+    "model": "AQM-L21A - C432",
+    "os": "AQM-LGRP2-OVS 102.0.0.226",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/eb/v3/LaJdnt8TSJCyEtV6ezLlNw/full/filelist.xml"
+  },
+  {
+    "romId": "647960",
+    "time": "2022/06/17",
+    "model": "ELS-AN10 - C00",
+    "os": "ELS-LGRP5-CHN 11.0.0.186",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b6/v3/p5SgIUfrTu2200X0e4RyQg/full/filelist.xml"
+  },
+  {
+    "romId": "647952",
+    "time": "2022/06/15",
+    "model": "CDY-N29H - C10",
+    "os": "CDY-LGRP4-OVS 3.1.1.236",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8e/v3/W44P6DRmQ76MqK0RQyrkEw/full/filelist.xml"
+  },
+  {
+    "romId": "647907",
+    "time": "2022/05/31",
+    "model": "ELS-AN10 - C00",
+    "os": "ELS-AN10-PRELOAD 11.0.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/0/v3/zlhGOIuNTLyfzIeYtiM8mA/full/filelist.xml"
+  },
+  {
+    "romId": "647905",
+    "time": "2022/05/31",
+    "model": "ELS-AN10 - C00",
+    "os": "ELS-AN10-CUST 11.0.0.180(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/62/v3/24fPamxDTtWotkzG5vmNWw/full/filelist.xml"
+  },
+  {
+    "romId": "647751",
+    "time": "2022/07/27",
+    "model": "MAR-L21MEA - C432",
+    "os": "MAR-L21MEA-PRELOAD 102.0.0.1(C432R2)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/94/v3/kZzsp09oTR6qyETT8qrH_A/full/filelist.xml"
+  },
+  {
+    "romId": "647750",
+    "time": "2022/07/27",
+    "model": "MAR-L21MEA - C432",
+    "os": "MAR-L21MEA-PRELOAD 102.0.0.1(C432R3)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/79/v3/XI76cwXOQRG1Jjn_uAfwLQ/full/filelist.xml"
+  },
+  {
+    "romId": "647749",
+    "time": "2022/07/27",
+    "model": "MAR-L21MEA - C432",
+    "os": "MAR-L21MEA-CUST 102.0.0.3(C432)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d2/v3/dPwzdWUdSDmFIYZBAhcw-Q/full/filelist.xml"
+  },
+  {
+    "romId": "647748",
+    "time": "2022/07/27",
+    "model": "MAR-L21MEA - C432",
+    "os": "MAR-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/21/v3/J7uN5RdLTlCEqXjEA3DKFg/full/filelist.xml"
+  },
+  {
+    "romId": "647661",
+    "time": "2022/06/01",
+    "model": "ARTH-L28 - C636",
+    "os": "ART-LGRP2-OVS 10.1.0.252",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/45/v3/gyI_7OdWRmuWgBlY9S2SEw/full/filelist.xml"
+  },
+  {
+    "romId": "647606",
+    "time": "2022/06/17",
+    "model": "YAL-AL00I - C675",
+    "os": "YAL-LGRP2-OVS 11.0.0.195",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9b/v3/cXpcOz-1TumFii4zDvTcTw/full/filelist.xml"
+  },
+  {
+    "romId": "647588",
+    "time": "2022/06/07",
+    "model": "ARTH-L29N - C185",
+    "os": "ART-LGRP2-OVS 10.1.0.252",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1e/v3/GlbojCl9RluIJATIHDhwVw/full/filelist.xml"
+  },
+  {
+    "romId": "647588",
+    "time": "2022/06/07",
+    "model": "ARTH-L29N - C10",
+    "os": "ART-LGRP2-OVS 10.1.0.252",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1e/v3/GlbojCl9RluIJATIHDhwVw/full/filelist.xml"
+  },
+  {
+    "romId": "647588",
+    "time": "2022/06/07",
+    "model": "ARTH-L29 - C10",
+    "os": "ART-LGRP2-OVS 10.1.0.252",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1e/v3/GlbojCl9RluIJATIHDhwVw/full/filelist.xml"
+  },
+  {
+    "romId": "647520",
+    "time": "2022/06/08",
+    "model": "AGR-W09 - C432",
+    "os": "AGR-LGRP10-OVS 10.1.0.256",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a6/v3/bmE73MB2QRa7ECr7PuZj1A/full/filelist.xml"
+  },
+  {
+    "romId": "647517",
+    "time": "2022/06/08",
+    "model": "AGR-W09 - C185",
+    "os": "AGR-LGRP10-OVS 10.1.0.256",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d1/v3/eOBQGMvsSx22WL9YmfkiSw/full/filelist.xml"
+  },
+  {
+    "romId": "647455",
+    "time": "2022/07/04",
+    "model": "MAR-L01MEB - C185",
+    "os": "MAR-L01MEB-CUST 102.0.0.3(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/95/v3/p1qIulvISjCYzSR0vc3J-w/full/filelist.xml"
+  },
+  {
+    "romId": "647454",
+    "time": "2022/07/04",
+    "model": "MAR-L01MEB - C185",
+    "os": "MAR-LGRP2-OVS 102.0.0.225",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4e/v3/hYlr7shiRdOea7x6tf5ggA/full/filelist.xml"
+  },
+  {
+    "romId": "647442",
+    "time": "2022/05/27",
+    "model": "KRJ-W09 - C10",
+    "os": "KRJ-LGRP4-OVS 3.1.1.267",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/03/v3/ZalurElXQjiv3iO-ZZvbyg/full/filelist.xml"
+  },
+  {
+    "romId": "647317",
+    "time": "2022/08/03",
+    "model": "POT-L21 - C431",
+    "os": "POT-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cd/v3/cES8H9rbQ3me3q1QrHyL3w/full/filelist.xml"
+  },
+  {
+    "romId": "647317",
+    "time": "2022/08/03",
+    "model": "POT-L21 - C432",
+    "os": "POT-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cd/v3/cES8H9rbQ3me3q1QrHyL3w/full/filelist.xml"
+  },
+  {
+    "romId": "647276",
+    "time": "2022/05/19",
+    "model": "ANG-AN00 - C00",
+    "os": "ANG-AN00-PRELOAD 11.0.0.1(C00R10)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/83/v3/CerEv8-5TPqHYxHfv-YW2Q/full/filelist.xml"
+  },
+  {
+    "romId": "647274",
+    "time": "2022/05/19",
+    "model": "ANG-AN00 - C01",
+    "os": "ANG-AN00-PRELOAD 11.0.0.1(C01R10)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/91/v3/rvk7Sz72SaCVupjNPRi34g/full/filelist.xml"
+  },
+  {
+    "romId": "647269",
+    "time": "2022/07/15",
+    "model": "STK-L01 - C431",
+    "os": "STK-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/66/v3/xyfhRNbvS8iTaF7vl40u_Q/full/filelist.xml"
+  },
+  {
+    "romId": "647225",
+    "time": "2022/06/21",
+    "model": "ELS-AN10 - C00",
+    "os": "ELS-AN10-PRELOAD 102.0.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/0f/v3/kjsTcli0QjKbHkPK43RU2A/full/filelist.xml"
+  },
+  {
+    "romId": "647224",
+    "time": "2022/06/21",
+    "model": "ELS-AN10 - C00",
+    "os": "ELS-AN10-CUST 102.0.0.230(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e7/v3/h4fQyc13Qd6xH_YovkD7mg/full/filelist.xml"
+  },
+  {
+    "romId": "647222",
+    "time": "2022/06/21",
+    "model": "ELS-AN10 - C00",
+    "os": "ELS-LGRP5-CHN 102.0.0.241",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/10/v3/nwbQTyMbTaCN_QJka2ku9Q/full/filelist.xml"
+  },
+  {
+    "romId": "647146",
+    "time": "2022/06/09",
+    "model": "AGR-W09 - C636",
+    "os": "AGR-LGRP10-OVS 10.1.0.255",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/45/v3/4AWguMoNQuuGtBs17guivA/full/filelist.xml"
+  },
+  {
+    "romId": "647144",
+    "time": "2022/06/09",
+    "model": "AGR-W09 - C10",
+    "os": "AGR-LGRP10-OVS 10.1.0.255",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/95/v3/MTi1tZgzTNe9pG-JmVGyGw/full/filelist.xml"
+  },
+  {
+    "romId": "647101",
+    "time": "2022/08/02",
+    "model": "MAR-L01A - C431",
+    "os": "MAR-L01A-PRELOAD 102.0.0.2(C431R2)",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c3/v3/L0wAA-t6RC6kCzzA4pzdzw/full/filelist.xml"
+  },
+  {
+    "romId": "647100",
+    "time": "2022/08/02",
+    "model": "MAR-L01A - C431",
+    "os": "MAR-L01A-CUST 102.0.0.3(C431)",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/56/v3/zWcpCB7IRFCReTHdt20JlA/full/filelist.xml"
+  },
+  {
+    "romId": "647099",
+    "time": "2022/08/02",
+    "model": "MAR-L01A - C431",
+    "os": "MAR-LGRP2-OVS 102.0.0.225",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7c/v3/Aoi8eJDtTCS4yw5mbbyr6A/full/filelist.xml"
+  },
+  {
+    "romId": "646980",
+    "time": "2022/05/30",
+    "model": "DUA-L29 - C185",
+    "os": "DUA-LGRP4-OVS 3.1.0.181",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a/v3/oIUSVTufTxaAbXBIFZR5vA/full/filelist.xml"
+  },
+  {
+    "romId": "646980",
+    "time": "2022/05/30",
+    "model": "DUA-L29 - C10",
+    "os": "DUA-LGRP4-OVS 3.1.0.181",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a/v3/oIUSVTufTxaAbXBIFZR5vA/full/filelist.xml"
+  },
+  {
+    "romId": "646904",
+    "time": "2022/06/01",
+    "model": "MED-L29II - C185",
+    "os": "MED-LGRP2-OVS 10.1.0.298",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/86/v3/bFnEMWzfScKQwlku0sr6Ng/full/filelist.xml"
+  },
+  {
+    "romId": "646904",
+    "time": "2022/06/01",
+    "model": "MED-L29 - C185",
+    "os": "MED-LGRP2-OVS 10.1.0.298",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/86/v3/bFnEMWzfScKQwlku0sr6Ng/full/filelist.xml"
+  },
+  {
+    "romId": "646889",
+    "time": "2022/06/21",
+    "model": "ELS-N04 - C792",
+    "os": "ELS-LGRP4-OVS 11.0.0.276",
+    "region": "hw-ca",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cd/v3/JW_LLe3MSme8zvVUUg6uzA/full/filelist.xml"
+  },
+  {
+    "romId": "646872",
+    "time": "2022/06/14",
+    "model": "DRA-L29 - C432",
+    "os": "DRA-LGRP2-OVS 10.1.0.264",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/83/v3/Rnvuej2PQQO_Iw2Q8Cm6mA/full/filelist.xml"
+  },
+  {
+    "romId": "646867",
+    "time": "2022/07/06",
+    "model": "BAH2-AL10 - C00",
+    "os": "BAH2-LGRP1-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/12/v3/rgCx-GvxTq-Szl0fOgXrHw/full/filelist.xml"
+  },
+  {
+    "romId": "646849",
+    "time": "2022/05/31",
+    "model": "MED-L49 - C185",
+    "os": "MED-LGRP2-OVS 10.1.0.297",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4a/v3/wVbyp7REQG25Kku6G1P7Xg/full/filelist.xml"
+  },
+  {
+    "romId": "646849",
+    "time": "2022/05/31",
+    "model": "MED-L49 - C10",
+    "os": "MED-LGRP2-OVS 10.1.0.297",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4a/v3/wVbyp7REQG25Kku6G1P7Xg/full/filelist.xml"
+  },
+  {
+    "romId": "646813",
+    "time": "2022/05/25",
+    "model": "DUA-L29 - C432",
+    "os": "DUA-LGRP4-OVS 3.1.0.181",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d2/v3/iXtCVmP9TVaTKut2l51xZA/full/filelist.xml"
+  },
+  {
+    "romId": "646765",
+    "time": "2022/06/01",
+    "model": "DRA-L29 - C185",
+    "os": "DRA-LGRP2-OVS 10.1.0.264",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/48/v3/fJ42X0GbRduZ1ZXQOVfBpg/full/filelist.xml"
+  },
+  {
+    "romId": "646765",
+    "time": "2022/06/01",
+    "model": "DRA-L29 - C10",
+    "os": "DRA-LGRP2-OVS 10.1.0.264",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/48/v3/fJ42X0GbRduZ1ZXQOVfBpg/full/filelist.xml"
+  },
+  {
+    "romId": "646763",
+    "time": "2022/06/06",
+    "model": "AGR-L09 - C432",
+    "os": "AGR-LGRP8-OVS 10.1.0.257",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cd/v3/PfzO45lSRhuikooSYR4xFQ/full/filelist.xml"
+  },
+  {
+    "romId": "646741",
+    "time": "2022/07/04",
+    "model": "MED-L49 - C432",
+    "os": "MED-LGRP2-OVS 10.1.0.297",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/37/v3/pqt7XG-EScODzlvF9ybTNA/full/filelist.xml"
+  },
+  {
+    "romId": "646584",
+    "time": "2022/06/06",
+    "model": "AGR-L09 - C10",
+    "os": "AGR-LGRP8-OVS 10.1.0.255",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/sBuRjIEtRrChD3Xh2-IMnQ/full/filelist.xml"
+  },
+  {
+    "romId": "646581",
+    "time": "2022/06/06",
+    "model": "AGR-L09 - C636",
+    "os": "AGR-LGRP8-OVS 10.1.0.255",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1c/v3/PvFlJ1QuSuSPibtNLSA1eA/full/filelist.xml"
+  },
+  {
+    "romId": "646580",
+    "time": "2022/06/06",
+    "model": "AGR-L09 - C185",
+    "os": "AGR-LGRP8-OVS 10.1.0.257",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/59/v3/qTGnHaRxRDanxAPmFqLQfA/full/filelist.xml"
+  },
+  {
+    "romId": "646567",
+    "time": "2022/05/30",
+    "model": "MOA-L49 - C10",
+    "os": "MOA-LGRP2-OVS 3.1.0.266",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/22/v3/BYY7lmSJTACAX0KmkUZ3Jw/full/filelist.xml"
+  },
+  {
+    "romId": "646538",
+    "time": "2022/06/02",
+    "model": "MOA-L49I - C185",
+    "os": "MOA-LGRP2-OVS 3.1.0.266",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5/v3/BRsW6SWBSveioWzbgaptCw/full/filelist.xml"
+  },
+  {
+    "romId": "646538",
+    "time": "2022/06/02",
+    "model": "MOA-L49 - C185",
+    "os": "MOA-LGRP2-OVS 3.1.0.266",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5/v3/BRsW6SWBSveioWzbgaptCw/full/filelist.xml"
+  },
+  {
+    "romId": "646488",
+    "time": "2022/06/08",
+    "model": "AGRK-W29K - C10",
+    "os": "AGRK-W29K-PRELOAD 10.1.0.1(C10R2)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a4/v3/6wso3dJKTQulBYgIK5zE4g/full/filelist.xml"
+  },
+  {
+    "romId": "646487",
+    "time": "2022/06/08",
+    "model": "AGRK-W29K - C10",
+    "os": "AGRK-W29K-CUST 10.1.0.20(C10)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9a/v3/fokLw_g9RRm55hwsQHyvvA/full/filelist.xml"
+  },
+  {
+    "romId": "646381",
+    "time": "2022/05/24",
+    "model": "AGRK-W29K - C185",
+    "os": "AGRK-W29K-PRELOAD 10.1.0.1(C185R1)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/01/v3/BLA5Z7mJQCyP_NnozdFd9A/full/filelist.xml"
+  },
+  {
+    "romId": "646380",
+    "time": "2022/05/24",
+    "model": "AGRK-W29K - C185",
+    "os": "AGRK-W29K-CUST 10.1.0.20(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/36/v3/FZngC2m-QsOrWnzJEfU2AQ/full/filelist.xml"
+  },
+  {
+    "romId": "646379",
+    "time": "2022/06/09",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-TN00-PRELOAD 102.0.0.2(C01R8)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/33/v3/8uyMfB7GSg2jkTMBZkcqzg/full/filelist.xml"
+  },
+  {
+    "romId": "646378",
+    "time": "2022/06/09",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-AN00-PRELOAD 102.0.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/_uyMypdrTgeuALx-_mAk3g/full/filelist.xml"
+  },
+  {
+    "romId": "646377",
+    "time": "2022/06/09",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-TN00-CUST 102.0.0.230(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/lWfPOpWFQ-mhoDIyPIggPA/full/filelist.xml"
+  },
+  {
+    "romId": "646376",
+    "time": "2022/06/09",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-AN00-CUST 102.0.0.230(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4e/v3/EULvZhZcRdqEoi44f578Zg/full/filelist.xml"
+  },
+  {
+    "romId": "646375",
+    "time": "2022/06/14",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-LGRP3-CHN 102.0.0.243",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/35/v3/ovFbQwEKTgyF7RHiemHA8A/full/filelist.xml"
+  },
+  {
+    "romId": "646375",
+    "time": "2022/06/14",
+    "model": "ANA-TN00 - C00",
+    "os": "ANA-LGRP3-CHN 102.0.0.243",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/35/v3/ovFbQwEKTgyF7RHiemHA8A/full/filelist.xml"
+  },
+  {
+    "romId": "646375",
+    "time": "2022/06/14",
+    "model": "ANA-AN00 - C01",
+    "os": "ANA-LGRP3-CHN 102.0.0.243",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/35/v3/ovFbQwEKTgyF7RHiemHA8A/full/filelist.xml"
+  },
+  {
+    "romId": "646375",
+    "time": "2022/06/14",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-LGRP3-CHN 102.0.0.243",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/35/v3/ovFbQwEKTgyF7RHiemHA8A/full/filelist.xml"
+  },
+  {
+    "romId": "646361",
+    "time": "2022/06/09",
+    "model": "ANA-AL00 - C00",
+    "os": "ANA-AL00-PRELOAD 102.0.0.2(C00R5)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/81/v3/deCrq9CyRgO5d2kW0Fat2g/full/filelist.xml"
+  },
+  {
+    "romId": "646360",
+    "time": "2022/06/09",
+    "model": "ANA-AL00 - C00",
+    "os": "ANA-AL00-CUST 102.0.0.230(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3b/v3/Gjd5QKW2SIqZrSomfOdseA/full/filelist.xml"
+  },
+  {
+    "romId": "646359",
+    "time": "2022/06/09",
+    "model": "ANA-AL00 - C00",
+    "os": "ANA-LGRP1-CHN 102.0.0.243",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/da/v3/P3OA-1WATcGSTJGNSlVMHw/full/filelist.xml"
+  },
+  {
+    "romId": "646334",
+    "time": "2022/05/25",
+    "model": "ELS-AN00 - C00",
+    "os": "ELS-AN00-CUST 11.0.0.180(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/73/v3/j7xNSLPETu2IMdqLUKo8hA/full/filelist.xml"
+  },
+  {
+    "romId": "646323",
+    "time": "2022/05/25",
+    "model": "ELS-TN00 - C01",
+    "os": "ELS-TN00-CUST 11.0.0.180(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/D-9MUFJsRGeDytlUyea66A/full/filelist.xml"
+  },
+  {
+    "romId": "645916",
+    "time": "2022/05/31",
+    "model": "FRLM-L22 - C185",
+    "os": "FRLM-LGRP4-OVS 10.1.1.212",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/55/v3/Y-n04vfYRC-3qK6JdI7S3w/full/filelist.xml"
+  },
+  {
+    "romId": "645878",
+    "time": "2022/06/10",
+    "model": "NEN-L21CQ - C432",
+    "os": "NEN-LGRP2-OVS 11.0.1.212",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/ooXoV-etSQe-ntftuAODqw/full/filelist.xml"
+  },
+  {
+    "romId": "645802",
+    "time": "2022/06/30",
+    "model": "PPAH-L22 - C432",
+    "os": "PPAH-LGRP2-OVS 10.1.1.252",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/51/v3/iUP1DYdTSZu1RhBYSMei6g/full/filelist.xml"
+  },
+  {
+    "romId": "645801",
+    "time": "2022/06/06",
+    "model": "PPAH-L21 - C432",
+    "os": "PPAH-LGRP2-OVS 10.1.1.252",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/bR8jCVKOSsi0pjWF_ao_rg/full/filelist.xml"
+  },
+  {
+    "romId": "645788",
+    "time": "2022/05/30",
+    "model": "PPAH-L02 - C185",
+    "os": "PPAH-LGRP2-OVS 10.1.1.252",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/77/v3/cY-P2i2IT7ajAB7TnlVWZA/full/filelist.xml"
+  },
+  {
+    "romId": "645788",
+    "time": "2022/05/30",
+    "model": "PPAH-L21 - C10",
+    "os": "PPAH-LGRP2-OVS 10.1.1.252",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/77/v3/cY-P2i2IT7ajAB7TnlVWZA/full/filelist.xml"
+  },
+  {
+    "romId": "645788",
+    "time": "2022/05/30",
+    "model": "PPAH-L22 - C185",
+    "os": "PPAH-LGRP2-OVS 10.1.1.252",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/77/v3/cY-P2i2IT7ajAB7TnlVWZA/full/filelist.xml"
+  },
+  {
+    "romId": "645784",
+    "time": "2022/05/16",
+    "model": "OCE-AN50 - C00",
+    "os": "OCE-LGRP9-CHN 102.0.0.243",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a6/v3/a8z_-HwxTNW_mJyNrgsSBg/full/filelist.xml"
+  },
+  {
+    "romId": "645739",
+    "time": "2022/06/30",
+    "model": "CMR-W09 - C00",
+    "os": "CMR-LGRP3-CHN 102.0.0.230",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a2/v3/FHtDpzC4Tv67PIiw2NGk6A/full/filelist.xml"
+  },
+  {
+    "romId": "645580",
+    "time": "2022/05/27",
+    "model": "WKG-L09 - C185",
+    "os": "WKG-LGRP2-OVS 11.0.1.166",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/27/v3/U_4JhkfVRrOQU3PhZoIWxQ/full/filelist.xml"
+  },
+  {
+    "romId": "645580",
+    "time": "2022/05/27",
+    "model": "WKG-L29 - C185",
+    "os": "WKG-LGRP2-OVS 11.0.1.166",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/27/v3/U_4JhkfVRrOQU3PhZoIWxQ/full/filelist.xml"
+  },
+  {
+    "romId": "645516",
+    "time": "2022/06/21",
+    "model": "ANA-L04 - C792",
+    "os": "ANA-LGRP2-OVS 11.0.0.256",
+    "region": "hw-ca",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/df/v3/xjAFdNCjT5KnhSyJFb-0og/full/filelist.xml"
+  },
+  {
+    "romId": "645482",
+    "time": "2022/05/12",
+    "model": "TAS-AN00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.018(L70C700R511)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/24/v3/UP6ekTloT3SdIndsTeFNfw/full/filelist.xml"
+  },
+  {
+    "romId": "645482",
+    "time": "2022/05/12",
+    "model": "TAS-AL00 - C700",
+    "os": "TAS-AN00-PRELOAD 10.0.0.018(L70C700R511)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/24/v3/UP6ekTloT3SdIndsTeFNfw/full/filelist.xml"
+  },
+  {
+    "romId": "645478",
+    "time": "2022/05/26",
+    "model": "EBG-N19 - C10",
+    "os": "EBG-LGRP2-OVS 11.0.0.212",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8f/v3/YG1N6bLxTZq5QZ53FGg3Iw/full/filelist.xml"
+  },
+  {
+    "romId": "645424",
+    "time": "2022/05/31",
+    "model": "AQM-L21A - C636",
+    "os": "AQM-LGRP2-OVS 10.1.0.224",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5b/v3/jUbN5J8aQaaCRBhzTNrY0A/full/filelist.xml"
+  },
+  {
+    "romId": "645415",
+    "time": "2022/06/16",
+    "model": "ARTH-L29N - C432",
+    "os": "ART-LGRP2-OVS 10.1.0.252",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/90/v3/7duD3s5NS3CHlFy7XOjbxg/full/filelist.xml"
+  },
+  {
+    "romId": "645415",
+    "time": "2022/06/16",
+    "model": "ARTH-L29 - C432",
+    "os": "ART-LGRP2-OVS 10.1.0.252",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/90/v3/7duD3s5NS3CHlFy7XOjbxg/full/filelist.xml"
+  },
+  {
+    "romId": "645398",
+    "time": "2022/05/25",
+    "model": "BMH-N19 - C10",
+    "os": "BMH-LGRP2-OVS 11.0.0.171",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/_HRDIh5HTvaFEN8bfp7HJg/full/filelist.xml"
+  },
+  {
+    "romId": "645384",
+    "time": "2022/06/02",
+    "model": "AGRK-W29K - C605",
+    "os": "AGRK-W29K-PRELOAD 10.1.0.1(C605R1)",
+    "region": "hw-la",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/32/v3/Gdd_t_jYQN6k-WUHtxeWLg/full/filelist.xml"
+  },
+  {
+    "romId": "645383",
+    "time": "2022/06/02",
+    "model": "AGRK-W29K - C605",
+    "os": "AGRK-W29K-CUST 10.1.0.20(C605)",
+    "region": "hw-la",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5/v3/xE7NawFsTrq2O7bnwBQvLg/full/filelist.xml"
+  },
+  {
+    "romId": "645257",
+    "time": "2022/05/31",
+    "model": "AGRK-L29 - C185",
+    "os": "AGRK-L29-PRELOAD 10.1.0.1(C185R1)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bf/v3/IEw5sHKjTqKHe0QmQQkndQ/full/filelist.xml"
+  },
+  {
+    "romId": "645256",
+    "time": "2022/05/31",
+    "model": "AGRK-L29 - C185",
+    "os": "AGRK-L29-CUST 10.1.0.10(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5d/v3/DVqIFEJbT8CEDBnxJir4Zg/full/filelist.xml"
+  },
+  {
+    "romId": "645171",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C10",
+    "os": "AGRK-L29-PRELOAD 10.1.0.1(C10R1)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c6/v3/m02Zay8HR9SEpe_N0bbWrA/full/filelist.xml"
+  },
+  {
+    "romId": "645170",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C10",
+    "os": "AGRK-L29-CUST 10.1.0.10(C10)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9c/v3/RvRA5vrIRUateBIWWfn_wg/full/filelist.xml"
+  },
+  {
+    "romId": "645154",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C432",
+    "os": "AGRK-L29-PRELOAD 10.1.0.1(C432R1)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2f/v3/Bub_KzkBRY6hj0n8aMPbOA/full/filelist.xml"
+  },
+  {
+    "romId": "645153",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C432",
+    "os": "AGRK-L29-CUST 10.1.0.10(C432)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ff/v3/gUXV60cUQjyxN5Mw06Keyw/full/filelist.xml"
+  },
+  {
+    "romId": "645044",
+    "time": "2022/05/23",
+    "model": "DNN-L29 - C185",
+    "os": "DNN-LGRP2-OVS 3.1.1.204",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a7/v3/5duw2EhuSXiY2KZoKPjyBA/full/filelist.xml"
+  },
+  {
+    "romId": "645044",
+    "time": "2022/05/23",
+    "model": "DNN-L29 - C10",
+    "os": "DNN-LGRP2-OVS 3.1.1.204",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a7/v3/5duw2EhuSXiY2KZoKPjyBA/full/filelist.xml"
+  },
+  {
+    "romId": "644988",
+    "time": "2022/05/26",
+    "model": "NEN-L01CQ - C185",
+    "os": "NEN-LGRP2-OVS 11.0.1.212",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/tdKwFf7jSLSSLgu9gbgNVw/full/filelist.xml"
+  },
+  {
+    "romId": "644988",
+    "time": "2022/05/26",
+    "model": "NEN-L21CQ - C10",
+    "os": "NEN-LGRP2-OVS 11.0.1.212",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/tdKwFf7jSLSSLgu9gbgNVw/full/filelist.xml"
+  },
+  {
+    "romId": "644988",
+    "time": "2022/05/26",
+    "model": "NEN-L22CQ - C185",
+    "os": "NEN-LGRP2-OVS 11.0.1.212",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/tdKwFf7jSLSSLgu9gbgNVw/full/filelist.xml"
+  },
+  {
+    "romId": "644921",
+    "time": "2022/05/20",
+    "model": "DNN-L29 - C432",
+    "os": "DNN-LGRP2-OVS 3.1.1.204",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d1/v3/I5uoklapQeyZB5hCSsGVNw/full/filelist.xml"
+  },
+  {
+    "romId": "644602",
+    "time": "2022/06/06",
+    "model": "AQM-L21A - C432",
+    "os": "AQM-LGRP2-OVS 10.1.0.224",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/MQNkQ1-_QZ6BHrFg7sN27g/full/filelist.xml"
+  },
+  {
+    "romId": "643974",
+    "time": "2022/05/25",
+    "model": "ELS-AN00 - C00",
+    "os": "ELS-AN00-PRELOAD 11.0.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/47/v3/l8tDD5AyTe68cMVJdM7ZBg/full/filelist.xml"
+  },
+  {
+    "romId": "643970",
+    "time": "2022/05/25",
+    "model": "ELS-TN00 - C01",
+    "os": "ELS-TN00-PRELOAD 11.0.0.2(C01R8)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dd/v3/llUUwMJKRDyWfkyMkJizdQ/full/filelist.xml"
+  },
+  {
+    "romId": "643829",
+    "time": "2022/05/25",
+    "model": "ELS-TN00 - C01",
+    "os": "ELS-LGRP3-CHN 11.0.0.186",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1/v3/5N1y2TEMSGCVsixnixjzSw/full/filelist.xml"
+  },
+  {
+    "romId": "643829",
+    "time": "2022/05/25",
+    "model": "ELS-TN00 - C00",
+    "os": "ELS-LGRP3-CHN 11.0.0.186",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1/v3/5N1y2TEMSGCVsixnixjzSw/full/filelist.xml"
+  },
+  {
+    "romId": "643829",
+    "time": "2022/05/25",
+    "model": "ELS-AN00 - C01",
+    "os": "ELS-LGRP3-CHN 11.0.0.186",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1/v3/5N1y2TEMSGCVsixnixjzSw/full/filelist.xml"
+  },
+  {
+    "romId": "643829",
+    "time": "2022/05/25",
+    "model": "ELS-AN00 - C00",
+    "os": "ELS-LGRP3-CHN 11.0.0.186",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1/v3/5N1y2TEMSGCVsixnixjzSw/full/filelist.xml"
+  },
+  {
+    "romId": "643741",
+    "time": "2022/07/05",
+    "model": "DUK-AL30 - C01",
+    "os": "DUK-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/ruPJDgemRoKLFWMVLEvHrQ/full/filelist.xml"
+  },
+  {
+    "romId": "643741",
+    "time": "2022/07/05",
+    "model": "DUK-AL30 - C00",
+    "os": "DUK-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/ruPJDgemRoKLFWMVLEvHrQ/full/filelist.xml"
+  },
+  {
+    "romId": "643741",
+    "time": "2022/07/05",
+    "model": "DUK-TL30 - C01",
+    "os": "DUK-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/ruPJDgemRoKLFWMVLEvHrQ/full/filelist.xml"
+  },
+  {
+    "romId": "643741",
+    "time": "2022/07/05",
+    "model": "DUK-TL30 - C00",
+    "os": "DUK-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/ruPJDgemRoKLFWMVLEvHrQ/full/filelist.xml"
+  },
+  {
+    "romId": "643741",
+    "time": "2022/07/05",
+    "model": "DUK-AL20 - C01",
+    "os": "DUK-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/ruPJDgemRoKLFWMVLEvHrQ/full/filelist.xml"
+  },
+  {
+    "romId": "643741",
+    "time": "2022/07/05",
+    "model": "DUK-AL20 - C00",
+    "os": "DUK-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6a/v3/ruPJDgemRoKLFWMVLEvHrQ/full/filelist.xml"
+  },
+  {
+    "romId": "643726",
+    "time": "2022/07/05",
+    "model": "INE-TL00 - C01",
+    "os": "INE-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b3/v3/sGSgPBVES1OyDgaqwhnhCg/full/filelist.xml"
+  },
+  {
+    "romId": "643724",
+    "time": "2022/07/05",
+    "model": "INE-AL00 - C00",
+    "os": "INE-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8f/v3/8GxJhKrVSE-clxRgrlbSDw/full/filelist.xml"
+  },
+  {
+    "romId": "643720",
+    "time": "2022/07/05",
+    "model": "INE-TL00 - C01",
+    "os": "INE-LGRP1-CHN 102.0.0.151",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/9F-LNGuOSxy-Vs95Bz9VzQ/full/filelist.xml"
+  },
+  {
+    "romId": "643720",
+    "time": "2022/07/05",
+    "model": "INE-TL00 - C00",
+    "os": "INE-LGRP1-CHN 102.0.0.151",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/9F-LNGuOSxy-Vs95Bz9VzQ/full/filelist.xml"
+  },
+  {
+    "romId": "643720",
+    "time": "2022/07/05",
+    "model": "INE-TL00 - C700",
+    "os": "INE-LGRP1-CHN 102.0.0.151",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/9F-LNGuOSxy-Vs95Bz9VzQ/full/filelist.xml"
+  },
+  {
+    "romId": "643720",
+    "time": "2022/07/05",
+    "model": "INE-AL00 - C01",
+    "os": "INE-LGRP1-CHN 102.0.0.151",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/9F-LNGuOSxy-Vs95Bz9VzQ/full/filelist.xml"
+  },
+  {
+    "romId": "643720",
+    "time": "2022/07/05",
+    "model": "INE-AL00 - C00",
+    "os": "INE-LGRP1-CHN 102.0.0.151",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/9F-LNGuOSxy-Vs95Bz9VzQ/full/filelist.xml"
+  },
+  {
+    "romId": "643720",
+    "time": "2022/07/05",
+    "model": "INE-AL00 - C700",
+    "os": "INE-LGRP1-CHN 102.0.0.151",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/bd/v3/9F-LNGuOSxy-Vs95Bz9VzQ/full/filelist.xml"
+  },
+  {
+    "romId": "643707",
+    "time": "2022/07/04",
+    "model": "PAR-AL00 - C00",
+    "os": "PAR-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/95/v3/FMEy8awpQNOFNkt_Gc2k0w/full/filelist.xml"
+  },
+  {
+    "romId": "643706",
+    "time": "2022/05/24",
+    "model": "AGRK-L29 - C636",
+    "os": "AGRK-L29-PRELOAD 10.1.0.1(C636R1)",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/95/v3/KU41rtYPT16Y7kTjkQyqZg/full/filelist.xml"
+  },
+  {
+    "romId": "643705",
+    "time": "2022/05/24",
+    "model": "AGRK-L29 - C636",
+    "os": "AGRK-L29-CUST 10.1.0.10(C636)",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6b/v3/W-U_nXrCQhWsEVbkIpXuhg/full/filelist.xml"
+  },
+  {
+    "romId": "643704",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C185",
+    "os": "AGRK-LGRP8-OVS 10.1.0.101",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/V_zrwbPOS4KFxKCseIWRoA/full/filelist.xml"
+  },
+  {
+    "romId": "643704",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C636",
+    "os": "AGRK-LGRP8-OVS 10.1.0.101",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/V_zrwbPOS4KFxKCseIWRoA/full/filelist.xml"
+  },
+  {
+    "romId": "643704",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C432",
+    "os": "AGRK-LGRP8-OVS 10.1.0.101",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/V_zrwbPOS4KFxKCseIWRoA/full/filelist.xml"
+  },
+  {
+    "romId": "643704",
+    "time": "2022/06/01",
+    "model": "AGRK-L29 - C10",
+    "os": "AGRK-LGRP8-OVS 10.1.0.101",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1b/v3/V_zrwbPOS4KFxKCseIWRoA/full/filelist.xml"
+  },
+  {
+    "romId": "643701",
+    "time": "2022/07/04",
+    "model": "PAR-TL00 - C01",
+    "os": "PAR-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/73/v3/Uj4zvvo8T-mOM_jk0fsrkw/full/filelist.xml"
+  },
+  {
+    "romId": "643700",
+    "time": "2022/07/04",
+    "model": "PAR-AL00 - C865",
+    "os": "PAR-AL00-CUST 102.0.0.150(C865)",
+    "region": "allyyqx-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6c/v3/wQraIAzjSACreTeiVu8beg/full/filelist.xml"
+  },
+  {
+    "romId": "643698",
+    "time": "2022/07/04",
+    "model": "PAR-TL00 - C01",
+    "os": "PAR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2d/v3/mqFKBVy7SKKKGw-OPBsvDw/full/filelist.xml"
+  },
+  {
+    "romId": "643698",
+    "time": "2022/07/04",
+    "model": "PAR-TL00 - C00",
+    "os": "PAR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2d/v3/mqFKBVy7SKKKGw-OPBsvDw/full/filelist.xml"
+  },
+  {
+    "romId": "643698",
+    "time": "2022/07/04",
+    "model": "PAR-AL00 - C01",
+    "os": "PAR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2d/v3/mqFKBVy7SKKKGw-OPBsvDw/full/filelist.xml"
+  },
+  {
+    "romId": "643698",
+    "time": "2022/07/04",
+    "model": "PAR-AL00 - C00",
+    "os": "PAR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2d/v3/mqFKBVy7SKKKGw-OPBsvDw/full/filelist.xml"
+  },
+  {
+    "romId": "642816",
+    "time": "2022/07/05",
+    "model": "HWI-TL00 - C01",
+    "os": "HWI-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/L6On4nriTPGEDdCJNYDafA/full/filelist.xml"
+  },
+  {
+    "romId": "642814",
+    "time": "2022/07/05",
+    "model": "HWI-AL00 - C00",
+    "os": "HWI-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/92/v3/b8T-3892TeWTC2JGsUikJQ/full/filelist.xml"
+  },
+  {
+    "romId": "642810",
+    "time": "2022/07/05",
+    "model": "HWI-AL00 - C01",
+    "os": "HWI-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/FSpNo_chRSm1vQbTK7IQnQ/full/filelist.xml"
+  },
+  {
+    "romId": "642810",
+    "time": "2022/07/05",
+    "model": "HWI-AL00 - C00",
+    "os": "HWI-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/FSpNo_chRSm1vQbTK7IQnQ/full/filelist.xml"
+  },
+  {
+    "romId": "642810",
+    "time": "2022/07/05",
+    "model": "HWI-AL00 - C700",
+    "os": "HWI-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/FSpNo_chRSm1vQbTK7IQnQ/full/filelist.xml"
+  },
+  {
+    "romId": "642810",
+    "time": "2022/07/05",
+    "model": "HWI-TL00 - C01",
+    "os": "HWI-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/FSpNo_chRSm1vQbTK7IQnQ/full/filelist.xml"
+  },
+  {
+    "romId": "642810",
+    "time": "2022/07/05",
+    "model": "HWI-TL00 - C00",
+    "os": "HWI-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/FSpNo_chRSm1vQbTK7IQnQ/full/filelist.xml"
+  },
+  {
+    "romId": "642810",
+    "time": "2022/07/05",
+    "model": "HWI-TL00 - C700",
+    "os": "HWI-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/FSpNo_chRSm1vQbTK7IQnQ/full/filelist.xml"
+  },
+  {
+    "romId": "642651",
+    "time": "2022/06/20",
+    "model": "VKY-TL00 - C01",
+    "os": "VKY-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2f/v3/JS1w5XTsS9y675pusgmnTw/full/filelist.xml"
+  },
+  {
+    "romId": "642648",
+    "time": "2022/06/20",
+    "model": "VKY-AL00 - C01",
+    "os": "VKY-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/69/v3/7pMQmIpOT1SiU5hGhG0szw/full/filelist.xml"
+  },
+  {
+    "romId": "642648",
+    "time": "2022/06/20",
+    "model": "VKY-AL00 - C00",
+    "os": "VKY-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/69/v3/7pMQmIpOT1SiU5hGhG0szw/full/filelist.xml"
+  },
+  {
+    "romId": "642648",
+    "time": "2022/06/20",
+    "model": "VKY-TL00 - C01",
+    "os": "VKY-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/69/v3/7pMQmIpOT1SiU5hGhG0szw/full/filelist.xml"
+  },
+  {
+    "romId": "642648",
+    "time": "2022/06/20",
+    "model": "VKY-TL00 - C00",
+    "os": "VKY-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/69/v3/7pMQmIpOT1SiU5hGhG0szw/full/filelist.xml"
+  },
+  {
+    "romId": "642644",
+    "time": "2022/07/05",
+    "model": "DUK-TL30 - C01",
+    "os": "DUK-TL30-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e6/v3/jBA-MGFfTR-bVAMrzYHD-w/full/filelist.xml"
+  },
+  {
+    "romId": "642625",
+    "time": "2022/07/05",
+    "model": "COR-TL10 - C01",
+    "os": "COR-TL10-CUST 102.0.0.151(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c0/v3/pw-euYwlRhKEHjheK49yaQ/full/filelist.xml"
+  },
+  {
+    "romId": "642623",
+    "time": "2022/07/05",
+    "model": "COR-AL10 - C00",
+    "os": "COR-AL10-CUST 102.0.0.151(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/63/v3/YzgnX2uVQzuR440jIDQ3tw/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-AL00 - C01",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-AL00 - C00",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-AL00 - C700",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-AL10 - C01",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-AL10 - C00",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-AL10 - C700",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-TL10 - C01",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-TL10 - C00",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642621",
+    "time": "2022/07/05",
+    "model": "COR-TL10 - C700",
+    "os": "COR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/hSY20_HbTF-MMkoTXGidQg/full/filelist.xml"
+  },
+  {
+    "romId": "642619",
+    "time": "2022/07/05",
+    "model": "COR-AL00 - C00",
+    "os": "COR-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3e/v3/qVc25qarRmeS-s-XkYiBUQ/full/filelist.xml"
+  },
+  {
+    "romId": "642597",
+    "time": "2022/06/20",
+    "model": "VTR-TL00 - C01",
+    "os": "VTR-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/34/v3/NlXNKgFbSi27p09Qcec-8A/full/filelist.xml"
+  },
+  {
+    "romId": "642577",
+    "time": "2022/07/04",
+    "model": "JKM-TL00 - C01",
+    "os": "JKM-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c2/v3/ItD6VSxeRwmVxX5Egz519g/full/filelist.xml"
+  },
+  {
+    "romId": "642575",
+    "time": "2022/07/04",
+    "model": "JKM-AL20 - C00",
+    "os": "JKM-AL20-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ca/v3/0r4xQrhhSACGqJ6EiTZ7Fg/full/filelist.xml"
+  },
+  {
+    "romId": "642573",
+    "time": "2022/07/04",
+    "model": "JKM-AL10 - C00",
+    "os": "JKM-AL10-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c3/v3/7QTegs_bQ5GUnkURGUEU8w/full/filelist.xml"
+  },
+  {
+    "romId": "642571",
+    "time": "2022/07/04",
+    "model": "JKM-AL00 - C00",
+    "os": "JKM-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ab/v3/fFkORad_QziMgP_jjNzEDQ/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-AL20 - C01",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-AL20 - C00",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-AL10 - C01",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-AL10 - C00",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-TL00 - C01",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-TL00 - C00",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-AL00 - C01",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642569",
+    "time": "2022/07/04",
+    "model": "JKM-AL00 - C00",
+    "os": "JKM-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cb/v3/tCc0JnmzSmS8ZHJlwsTjjg/full/filelist.xml"
+  },
+  {
+    "romId": "642566",
+    "time": "2022/06/20",
+    "model": "VTR-AL00 - C01",
+    "os": "VTR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/f1WG9KFeQRqbe7EVRtS4Og/full/filelist.xml"
+  },
+  {
+    "romId": "642566",
+    "time": "2022/06/20",
+    "model": "VTR-AL00 - C00",
+    "os": "VTR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/f1WG9KFeQRqbe7EVRtS4Og/full/filelist.xml"
+  },
+  {
+    "romId": "642566",
+    "time": "2022/06/20",
+    "model": "VTR-TL00 - C01",
+    "os": "VTR-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/f1WG9KFeQRqbe7EVRtS4Og/full/filelist.xml"
+  },
+  {
+    "romId": "642566",
+    "time": "2022/06/20",
+    "model": "VTR-TL00 - C00",
+    "os": "VTR-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/dc/v3/f1WG9KFeQRqbe7EVRtS4Og/full/filelist.xml"
+  },
+  {
+    "romId": "642564",
+    "time": "2022/06/20",
+    "model": "VTR-AL00 - C00",
+    "os": "VTR-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/cndq9bBCRXGYz3Z_he8jNQ/full/filelist.xml"
+  },
+  {
+    "romId": "642547",
+    "time": "2022/07/05",
+    "model": "DUK-AL30 - C00",
+    "os": "DUK-AL30-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f2/v3/PgHAVXRiQ8G79dLCNYQWxw/full/filelist.xml"
+  },
+  {
+    "romId": "642537",
+    "time": "2022/07/05",
+    "model": "DUK-AL20 - C00",
+    "os": "DUK-AL20-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c4/v3/bPi9RPXpR6WjqZxcMxh-LA/full/filelist.xml"
+  },
+  {
+    "romId": "642534",
+    "time": "2022/06/20",
+    "model": "VKY-AL00 - C00",
+    "os": "VKY-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/21/v3/Dgyy39jgRaKFE3hh4-33mw/full/filelist.xml"
+  },
+  {
+    "romId": "642504",
+    "time": "2022/05/25",
+    "model": "BRQ-AL00 - C00",
+    "os": "BRQ-AL00-PRELOAD 11.0.0.1(C00R11)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ab/v3/BEfz1hcWTdS1X0Lw2RTeZA/full/filelist.xml"
+  },
+  {
+    "romId": "642503",
+    "time": "2022/04/29",
+    "model": "BRQ-AN00 - C00",
+    "os": "BRQ-AN00-PRELOAD 11.0.0.1(C00R11)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/58/v3/zyNnfBxMQ32xmXlIMBbKWQ/full/filelist.xml"
+  },
+  {
+    "romId": "642502",
+    "time": "2022/04/29",
+    "model": "BRQ-AN00CG - C00",
+    "os": "BRQ-AN00CG-PRELOAD 11.0.0.1(C00R11)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2e/v3/L7oQ1rxDQWq01pUZgvrrUQ/full/filelist.xml"
+  },
+  {
+    "romId": "642392",
+    "time": "2022/07/05",
+    "model": "STF-AL00 - C00",
+    "os": "STF-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/60/v3/JqnYlMnsSAStUFaLLFE1JA/full/filelist.xml"
+  },
+  {
+    "romId": "642390",
+    "time": "2022/07/05",
+    "model": "STF-AL10 - C00",
+    "os": "STF-AL10-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7c/v3/k87FR8MjQg2iMMEpfYAGUA/full/filelist.xml"
+  },
+  {
+    "romId": "642388",
+    "time": "2022/07/05",
+    "model": "STF-TL10 - C01",
+    "os": "STF-TL10-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1a/v3/j0FlhyoWSPOqgcmUY6pWCQ/full/filelist.xml"
+  },
+  {
+    "romId": "642386",
+    "time": "2022/07/05",
+    "model": "STF-AL10 - C01",
+    "os": "STF-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/FCNT7izVSfaApTwi6zVp-Q/full/filelist.xml"
+  },
+  {
+    "romId": "642386",
+    "time": "2022/07/05",
+    "model": "STF-AL10 - C00",
+    "os": "STF-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/FCNT7izVSfaApTwi6zVp-Q/full/filelist.xml"
+  },
+  {
+    "romId": "642386",
+    "time": "2022/07/05",
+    "model": "STF-TL10 - C01",
+    "os": "STF-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/FCNT7izVSfaApTwi6zVp-Q/full/filelist.xml"
+  },
+  {
+    "romId": "642386",
+    "time": "2022/07/05",
+    "model": "STF-TL10 - C00",
+    "os": "STF-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/FCNT7izVSfaApTwi6zVp-Q/full/filelist.xml"
+  },
+  {
+    "romId": "642386",
+    "time": "2022/07/05",
+    "model": "STF-AL00 - C01",
+    "os": "STF-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/FCNT7izVSfaApTwi6zVp-Q/full/filelist.xml"
+  },
+  {
+    "romId": "642386",
+    "time": "2022/07/05",
+    "model": "STF-AL00 - C00",
+    "os": "STF-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/FCNT7izVSfaApTwi6zVp-Q/full/filelist.xml"
+  },
+  {
+    "romId": "642125",
+    "time": "2022/05/12",
+    "model": "ARTH-L28 - C636",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f1/v3/0lgCcUw-STiUULHjSOakBg/full/filelist.xml"
+  },
+  {
+    "romId": "642035",
+    "time": "2022/05/26",
+    "model": "ELS-TN00 - C01",
+    "os": "ELS-TN00-CUST 102.0.0.230(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7f/v3/Atlvvw8HTUqVu5GELWriFQ/full/filelist.xml"
+  },
+  {
+    "romId": "642034",
+    "time": "2022/05/26",
+    "model": "ELS-AN00 - C00",
+    "os": "ELS-AN00-CUST 102.0.0.230(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ba/v3/2QDulaB9Qf2eWCfRlSJf6Q/full/filelist.xml"
+  },
+  {
+    "romId": "642013",
+    "time": "2022/05/23",
+    "model": "AGRK-W29K - C432",
+    "os": "AGRK-W29K-PRELOAD 10.1.0.1(C432R1)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ce/v3/48Mb6ZJNSiSewtUTCHn-Rw/full/filelist.xml"
+  },
+  {
+    "romId": "642012",
+    "time": "2022/05/23",
+    "model": "AGRK-W29K - C432",
+    "os": "AGRK-W29K-CUST 10.1.0.20(C432)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c8/v3/MacGaEdgR7CwnfvZGCEJ4g/full/filelist.xml"
+  },
+  {
+    "romId": "642000",
+    "time": "2022/07/05",
+    "model": "LON-AL00 - C00",
+    "os": "LON-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/27/v3/sYhPwpE7TiC_FpxVkwv3UA/full/filelist.xml"
+  },
+  {
+    "romId": "641996",
+    "time": "2022/07/05",
+    "model": "LON-AL00 - C00",
+    "os": "LON-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5/v3/IV5FBc3XT5-sLH87oFwnPA/full/filelist.xml"
+  },
+  {
+    "romId": "641995",
+    "time": "2022/07/05",
+    "model": "LON-AL00 - C786",
+    "os": "LON-AL00-CUST 102.0.0.150(C786)",
+    "region": "porsche-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4c/v3/PCRDsCRsTgSlv9ETN0hp3A/full/filelist.xml"
+  },
+  {
+    "romId": "641967",
+    "time": "2022/05/26",
+    "model": "ELS-AN00 - C00",
+    "os": "ELS-AN00-PRELOAD 102.0.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/3f/v3/IrfM81iEQuOpzWDDhjwHLQ/full/filelist.xml"
+  },
+  {
+    "romId": "641966",
+    "time": "2022/05/26",
+    "model": "ELS-TN00 - C01",
+    "os": "ELS-TN00-PRELOAD 102.0.0.2(C01R8)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2a/v3/ZuC71OjiRZywlfW3Hp-4dw/full/filelist.xml"
+  },
+  {
+    "romId": "641964",
+    "time": "2022/05/26",
+    "model": "ELS-TN00 - C01",
+    "os": "ELS-LGRP3-CHN 102.0.0.236",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/xn6L53snSYKUHgF19aisoQ/full/filelist.xml"
+  },
+  {
+    "romId": "641964",
+    "time": "2022/05/26",
+    "model": "ELS-TN00 - C00",
+    "os": "ELS-LGRP3-CHN 102.0.0.236",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/xn6L53snSYKUHgF19aisoQ/full/filelist.xml"
+  },
+  {
+    "romId": "641964",
+    "time": "2022/05/26",
+    "model": "ELS-AN00 - C01",
+    "os": "ELS-LGRP3-CHN 102.0.0.236",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/xn6L53snSYKUHgF19aisoQ/full/filelist.xml"
+  },
+  {
+    "romId": "641964",
+    "time": "2022/05/26",
+    "model": "ELS-AN00 - C00",
+    "os": "ELS-LGRP3-CHN 102.0.0.236",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/93/v3/xn6L53snSYKUHgF19aisoQ/full/filelist.xml"
+  },
+  {
+    "romId": "641899",
+    "time": "2022/07/05",
+    "model": "MHA-AL00 - C00",
+    "os": "MHA-AL00-CUST 102.0.0.150(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/iYsQJazGT5ipfrJzxWC-NQ/full/filelist.xml"
+  },
+  {
+    "romId": "641897",
+    "time": "2022/07/05",
+    "model": "MHA-TL00 - C01",
+    "os": "MHA-TL00-CUST 102.0.0.150(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2f/v3/XYJh2hI3TCyRgjxvzDFqug/full/filelist.xml"
+  },
+  {
+    "romId": "641896",
+    "time": "2022/07/05",
+    "model": "MHA-AL00 - C01",
+    "os": "MHA-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/50/v3/Idviz4l1QY-Txk-cRJd0jQ/full/filelist.xml"
+  },
+  {
+    "romId": "641896",
+    "time": "2022/07/05",
+    "model": "MHA-AL00 - C00",
+    "os": "MHA-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/50/v3/Idviz4l1QY-Txk-cRJd0jQ/full/filelist.xml"
+  },
+  {
+    "romId": "641896",
+    "time": "2022/07/05",
+    "model": "MHA-TL00 - C01",
+    "os": "MHA-LGRP1-CHN 102.0.0.150",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/50/v3/Idviz4l1QY-Txk-cRJd0jQ/full/filelist.xml"
+  },
+  {
+    "romId": "641896",
+    "time": "2022/07/05",
+    "model": "MHA-TL00 - C00",
+    "os": "MHA-LGRP1-CHN 102.0.0.150",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/50/v3/Idviz4l1QY-Txk-cRJd0jQ/full/filelist.xml"
+  },
+  {
+    "romId": "641748",
+    "time": "2022/05/19",
+    "model": "ANA-AL00 - C00",
+    "os": "ANA-AL00-CUST 10.1.0.166(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/be/v3/8t9OsPwOQWyzuVoXOhdn4w/full/filelist.xml"
+  },
+  {
+    "romId": "641663",
+    "time": "2022/05/17",
+    "model": "MOA-L49I - C675",
+    "os": "MOA-LGRP2-OVS 3.1.0.263",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/16/v3/sdXNNFGARSOS4j5NzTJJXg/full/filelist.xml"
+  },
+  {
+    "romId": "641663",
+    "time": "2022/05/17",
+    "model": "MOA-L49 - C636",
+    "os": "MOA-LGRP2-OVS 3.1.0.263",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/16/v3/sdXNNFGARSOS4j5NzTJJXg/full/filelist.xml"
+  },
+  {
+    "romId": "641546",
+    "time": "2022/05/18",
+    "model": "KOB2-L09 - C10",
+    "os": "KOB2-LGRP2-OVS 10.1.0.214",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4c/v3/1D9MzAm0Tiif2nHCt9Ekpw/full/filelist.xml"
+  },
+  {
+    "romId": "641512",
+    "time": "2022/05/16",
+    "model": "DUA-L29 - C636",
+    "os": "DUA-LGRP4-OVS 3.1.0.179",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e0/v3/FMIcOb7VRs2l3BKFCFzgyQ/full/filelist.xml"
+  },
+  {
+    "romId": "641512",
+    "time": "2022/05/16",
+    "model": "DUA-L29 - C675",
+    "os": "DUA-LGRP4-OVS 3.1.0.179",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e0/v3/FMIcOb7VRs2l3BKFCFzgyQ/full/filelist.xml"
+  },
+  {
+    "romId": "641384",
+    "time": "2022/05/18",
+    "model": "PPAH-L22 - C636",
+    "os": "PPAH-LGRP2-OVS 10.1.1.246",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/77/v3/JmOLZd2ET9KoQwWgRvkRGw/full/filelist.xml"
+  },
+  {
+    "romId": "641380",
+    "time": "2022/05/17",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-AN00-PRELOAD 10.1.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8/v3/WvgYxJqBTiuqB3skN95wTA/full/filelist.xml"
+  },
+  {
+    "romId": "641379",
+    "time": "2022/05/17",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-TN00-PRELOAD 10.1.0.2(C01R8)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/db/v3/pQkyfcQDQQWYdrQ33Vj8Ng/full/filelist.xml"
+  },
+  {
+    "romId": "641375",
+    "time": "2022/05/23",
+    "model": "OCE-AN50 - C00",
+    "os": "OCE-LGRP9-CHN 11.0.0.201",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a6/v3/qOCaeaphSiugAoVwGkna9A/full/filelist.xml"
+  },
+  {
+    "romId": "641374",
+    "time": "2022/05/19",
+    "model": "ANA-AL00 - C00",
+    "os": "ANA-AL00-PRELOAD 10.1.0.2(C00R5)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/cd/v3/g0CfWg9WQfazLDhcgx3_lA/full/filelist.xml"
+  },
+  {
+    "romId": "641362",
+    "time": "2022/05/17",
+    "model": "NOH-AN01 - C00",
+    "os": "NOH-AN01-PRELOAD 11.0.0.1(C00R11)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e7/v3/IpT15LCBTsym7ZfC6sqGZA/full/filelist.xml"
+  },
+  {
+    "romId": "641361",
+    "time": "2022/05/17",
+    "model": "NOH-AN00 - C01",
+    "os": "NOH-AN00-PRELOAD 11.0.0.1(C01R11)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e2/v3/wS1fmOeWRsGnLuxzv0_7Og/full/filelist.xml"
+  },
+  {
+    "romId": "641360",
+    "time": "2022/05/17",
+    "model": "NOH-AN00 - C00",
+    "os": "NOH-AN00-PRELOAD 11.0.0.1(C00R11)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4a/v3/Xyy5KNQeQsOyzrxUXXbfVg/full/filelist.xml"
+  },
+  {
+    "romId": "641316",
+    "time": "2022/05/23",
+    "model": "KOB2-W09 - C185",
+    "os": "KOB2-LGRP4-OVS 10.1.0.215",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9c/v3/HFbERCUDSDawKfRHi3VdFQ/full/filelist.xml"
+  },
+  {
+    "romId": "641314",
+    "time": "2022/05/23",
+    "model": "KOB2-W09 - C10",
+    "os": "KOB2-LGRP4-OVS 10.1.0.214",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/74/v3/EBaq1xidTSSEirAdqNOb9Q/full/filelist.xml"
+  },
+  {
+    "romId": "641313",
+    "time": "2022/05/24",
+    "model": "KOB2-W09 - C432",
+    "os": "KOB2-LGRP4-OVS 10.1.0.212",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c3/v3/QUAzMQASQ0atEwBunvJaGA/full/filelist.xml"
+  },
+  {
+    "romId": "641312",
+    "time": "2022/05/24",
+    "model": "KOB2-W09 - C636",
+    "os": "KOB2-LGRP4-OVS 10.1.0.212",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ff/v3/uhuCbecrSMOFwHZy7D2rCA/full/filelist.xml"
+  },
+  {
+    "romId": "641303",
+    "time": "2022/05/20",
+    "model": "KOB2-L09 - C636",
+    "os": "KOB2-LGRP2-OVS 10.1.0.212",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d1/v3/zo3fxjYhT5uxzsYb2OULSA/full/filelist.xml"
+  },
+  {
+    "romId": "641266",
+    "time": "2022/04/25",
+    "model": "NOH-AN00 - C700",
+    "os": "NOH-AN00-PRELOAD 11.0.0.007(L46C700R621)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f0/v3/4dWizImsSWqCX0fj0fZtjA/full/filelist.xml"
+  },
+  {
+    "romId": "641259",
+    "time": "2022/04/25",
+    "model": "NOH-AN01 - C700",
+    "os": "NOH-AN01-PRELOAD 11.0.0.024(L46C700R620)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c9/v3/YAUrPccqT72aoxGkRjMbpg/full/filelist.xml"
+  },
+  {
+    "romId": "641256",
+    "time": "2022/04/29",
+    "model": "NOH-AN00 - C700",
+    "os": "NOH-AN00-PRELOAD 11.0.0.024(L46C700R620)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/47/v3/fxBzcgh4ShG9GOCC70jpXw/full/filelist.xml"
+  },
+  {
+    "romId": "641240",
+    "time": "2022/04/25",
+    "model": "NOH-AN01 - C700",
+    "os": "NOH-AN01-PRELOAD 11.0.0.007(L46C700R621)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6e/v3/Hw40BOUUToehbTCyLfo35g/full/filelist.xml"
+  },
+  {
+    "romId": "641226",
+    "time": "2022/05/07",
+    "model": "AGRK-W29 - C185",
+    "os": "AGRK-W29-PRELOAD 10.1.0.1(C185R1)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ed/v3/mr_Id1RQRSCafMCTC9J0rQ/full/filelist.xml"
+  },
+  {
+    "romId": "641225",
+    "time": "2022/05/07",
+    "model": "AGRK-W29 - C185",
+    "os": "AGRK-W29-CUST 10.1.0.10(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/88/v3/Wd5KFkExQ9StgtaI_CTqyg/full/filelist.xml"
+  },
+  {
+    "romId": "641224",
+    "time": "2022/05/18",
+    "model": "AGRK-W29 - C10",
+    "os": "AGRK-W29-PRELOAD 10.1.0.1(C10R1)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b2/v3/uX6paiguQyK-ppFTyiVU9Q/full/filelist.xml"
+  },
+  {
+    "romId": "641223",
+    "time": "2022/05/18",
+    "model": "AGRK-W29 - C10",
+    "os": "AGRK-W29-CUST 10.1.0.10(C10)",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/71/v3/Hva77gLETB-OmvpkzydvHg/full/filelist.xml"
+  },
+  {
+    "romId": "641188",
+    "time": "2022/05/30",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-AN00-CUST 11.0.0.180(C00)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/58/v3/4JuWz6AeRxyXz6A8_bFJpQ/full/filelist.xml"
+  },
+  {
+    "romId": "641187",
+    "time": "2022/06/09",
+    "model": "AGRK-W29 - C636",
+    "os": "AGRK-W29-PRELOAD 10.1.0.1(C636R1)",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/de/v3/Uty6_Et1Q0OzwHYsHHxynw/full/filelist.xml"
+  },
+  {
+    "romId": "641186",
+    "time": "2022/06/09",
+    "model": "AGRK-W29 - C636",
+    "os": "AGRK-W29-CUST 10.1.0.10(C636)",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8b/v3/6o39hR2NQfmw8fKi5ZBB1g/full/filelist.xml"
+  },
+  {
+    "romId": "641185",
+    "time": "2022/05/30",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-TN00-CUST 11.0.0.180(C01)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5a/v3/1MLNnOtVRtmS7tjzhS0nfA/full/filelist.xml"
+  },
+  {
+    "romId": "641158",
+    "time": "2022/05/09",
+    "model": "AGS3-W00B - C00",
+    "os": "AGS3-LGRP3-CHN 10.1.0.208",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/71/v3/tYEHgjW0Qui3_mJmYexofQ/full/filelist.xml"
+  },
+  {
+    "romId": "641153",
+    "time": "2022/05/30",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-LGRP3-CHN 11.0.0.185",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/48/v3/2zXVtmG3SIavWUyieyDYVQ/full/filelist.xml"
+  },
+  {
+    "romId": "641153",
+    "time": "2022/05/30",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-LGRP3-CHN 11.0.0.185",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/48/v3/2zXVtmG3SIavWUyieyDYVQ/full/filelist.xml"
+  },
+  {
+    "romId": "641153",
+    "time": "2022/05/30",
+    "model": "ANA-TN00 - C00",
+    "os": "ANA-LGRP3-CHN 11.0.0.185",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/48/v3/2zXVtmG3SIavWUyieyDYVQ/full/filelist.xml"
+  },
+  {
+    "romId": "641153",
+    "time": "2022/05/30",
+    "model": "ANA-AN00 - C01",
+    "os": "ANA-LGRP3-CHN 11.0.0.185",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/48/v3/2zXVtmG3SIavWUyieyDYVQ/full/filelist.xml"
+  },
+  {
+    "romId": "641128",
+    "time": "2022/05/07",
+    "model": "AGRK-W29 - C605",
+    "os": "AGRK-W29-PRELOAD 10.1.0.1(C605R1)",
+    "region": "hw-la",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/77/v3/LovC3r2NR2ueysIAGAqFLg/full/filelist.xml"
+  },
+  {
+    "romId": "641127",
+    "time": "2022/05/07",
+    "model": "AGRK-W29 - C605",
+    "os": "AGRK-W29-CUST 10.1.0.10(C605)",
+    "region": "hw-la",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4b/v3/HFF9DPYDQnavESADiNJHDA/full/filelist.xml"
+  },
+  {
+    "romId": "641059",
+    "time": "2022/05/30",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-TN00-PRELOAD 11.0.0.2(C01R8)",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b/v3/DwiEvQ7wSRic0PngMOZWWg/full/filelist.xml"
+  },
+  {
+    "romId": "641058",
+    "time": "2022/05/30",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-AN00-PRELOAD 11.0.0.2(C00R8)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/86/v3/lE20T-59T7aLBYlDJOdfSA/full/filelist.xml"
+  },
+  {
+    "romId": "641053",
+    "time": "2022/05/19",
+    "model": "ANA-AL00 - C00",
+    "os": "ANA-LGRP1-CHN 10.1.0.170",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/39/v3/QfirF6FGR4ql3yrrbKtbgw/full/filelist.xml"
+  },
+  {
+    "romId": "641052",
+    "time": "2022/05/17",
+    "model": "ANA-AN00 - C00",
+    "os": "ANA-LGRP3-CHN 10.1.0.170",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/bhFx7-4QRRW_HIWE8pLfzg/full/filelist.xml"
+  },
+  {
+    "romId": "641052",
+    "time": "2022/05/17",
+    "model": "ANA-TN00 - C01",
+    "os": "ANA-LGRP3-CHN 10.1.0.170",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/bhFx7-4QRRW_HIWE8pLfzg/full/filelist.xml"
+  },
+  {
+    "romId": "641052",
+    "time": "2022/05/17",
+    "model": "ANA-TN00 - C00",
+    "os": "ANA-LGRP3-CHN 10.1.0.170",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/bhFx7-4QRRW_HIWE8pLfzg/full/filelist.xml"
+  },
+  {
+    "romId": "641052",
+    "time": "2022/05/17",
+    "model": "ANA-AN00 - C01",
+    "os": "ANA-LGRP3-CHN 10.1.0.170",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/61/v3/bhFx7-4QRRW_HIWE8pLfzg/full/filelist.xml"
+  },
+  {
+    "romId": "640958",
+    "time": "2022/05/19",
+    "model": "PPAH-AL40 - C00",
+    "os": "PPA-LGRP1-CHN 10.1.1.172",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/g9O-VHjESQ2YyHNAVRtWgg/full/filelist.xml"
+  },
+  {
+    "romId": "640958",
+    "time": "2022/05/19",
+    "model": "PPAH-TL20 - C01",
+    "os": "PPA-LGRP1-CHN 10.1.1.172",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/g9O-VHjESQ2YyHNAVRtWgg/full/filelist.xml"
+  },
+  {
+    "romId": "640958",
+    "time": "2022/05/19",
+    "model": "PPAH-AL20 - C00",
+    "os": "PPA-LGRP1-CHN 10.1.1.172",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/23/v3/g9O-VHjESQ2YyHNAVRtWgg/full/filelist.xml"
+  },
+  {
+    "romId": "640860",
+    "time": "2022/05/12",
+    "model": "AGR-W09 - C432",
+    "os": "AGR-LGRP10-OVS 10.1.0.246",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/4c/v3/gaDArr03S2yC2OlUHH6k9g/full/filelist.xml"
+  },
+  {
+    "romId": "640857",
+    "time": "2022/05/12",
+    "model": "AGR-W09 - C185",
+    "os": "AGR-LGRP10-OVS 10.1.0.246",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f9/v3/FgYnOT9mSOuINB4XuhmzEg/full/filelist.xml"
+  },
+  {
+    "romId": "640608",
+    "time": "2022/07/01",
+    "model": "MRX-W09 - C432",
+    "os": "MRX-LGRP4-OVS 102.0.0.241",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/6e/v3/EbXII77RRauGWOCPb1_MMA/full/filelist.xml"
+  },
+  {
+    "romId": "640478",
+    "time": "2022/05/26",
+    "model": "KOB2-L09 - C432",
+    "os": "KOB2-LGRP2-OVS 10.1.0.212",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/52/v3/D5VN4guGSU6SwXEb4KrbqQ/full/filelist.xml"
+  },
+  {
+    "romId": "640476",
+    "time": "2022/05/19",
+    "model": "KOB2-L09 - C185",
+    "os": "KOB2-LGRP2-OVS 10.1.0.212",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b9/v3/qm0SghpsS8u2xdNssp4LYg/full/filelist.xml"
+  },
+  {
+    "romId": "640461",
+    "time": "2022/07/12",
+    "model": "MED-L49 - C432",
+    "os": "MED-LGRP2-OVS 10.1.0.296",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/vV58LLvFS92M0eLHaI9-_g/full/filelist.xml"
+  },
+  {
+    "romId": "640453",
+    "time": "2022/04/22",
+    "model": "LIO-AN00 - C700",
+    "os": "LIO-AN00-PRELOAD 10.0.0.020(L68C700R620)",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7f/v3/Z1iRVcrWQDyjnT7VogOPLw/full/filelist.xml"
+  },
+  {
+    "romId": "640350",
+    "time": "2022/05/07",
+    "model": "AGR-W09 - C10",
+    "os": "AGR-LGRP10-OVS 10.1.0.245",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a5/v3/1GPKYRikR1-k35otpss84A/full/filelist.xml"
+  },
+  {
+    "romId": "640345",
+    "time": "2022/05/07",
+    "model": "AGR-W09 - C636",
+    "os": "AGR-LGRP10-OVS 10.1.0.245",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/43/v3/1_GbA_y7QjKYelC_xThCZw/full/filelist.xml"
+  },
+  {
+    "romId": "640183",
+    "time": "2022/05/06",
+    "model": "AGS3-L09 - C636",
+    "os": "AGS3-LGRP8-OVS 10.1.0.257",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b7/v3/1Q52gjFaT_ypfGeB2xuXnA/full/filelist.xml"
+  },
+  {
+    "romId": "640134",
+    "time": "2022/05/09",
+    "model": "AGR-L09 - C10",
+    "os": "AGR-LGRP8-OVS 10.1.0.245",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/36/v3/n94E0ELnQaGBnLjb8xOBRA/full/filelist.xml"
+  },
+  {
+    "romId": "640133",
+    "time": "2022/05/09",
+    "model": "AGR-L09 - C636",
+    "os": "AGR-LGRP8-OVS 10.1.0.245",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/YUXezDo0RlOvk0R0RnZQig/full/filelist.xml"
+  },
+  {
+    "romId": "640132",
+    "time": "2022/05/09",
+    "model": "AGR-L09 - C432",
+    "os": "AGR-LGRP8-OVS 10.1.0.247",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/ea/v3/avU2MzycQ8SUOPnsPX1OKw/full/filelist.xml"
+  },
+  {
+    "romId": "640131",
+    "time": "2022/05/09",
+    "model": "AGR-L09 - C185",
+    "os": "AGR-LGRP8-OVS 10.1.0.247",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c6/v3/e0UWtqc8SSGziucKtyACHA/full/filelist.xml"
+  },
+  {
+    "romId": "640059",
+    "time": "2022/05/17",
+    "model": "NEN-L22CQ - C636",
+    "os": "NEN-LGRP2-OVS 11.0.1.208",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d8/v3/tWjzqFwSTI29wgb4RNSF0w/full/filelist.xml"
+  },
+  {
+    "romId": "640057",
+    "time": "2022/05/16",
+    "model": "DRA-L29 - C636",
+    "os": "DRA-LGRP2-OVS 10.1.0.257",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/40/v3/WtNQGEguREK-l1PFSiBijQ/full/filelist.xml"
+  },
+  {
+    "romId": "640013",
+    "time": "2022/05/06",
+    "model": "PPAH-L02 - C185",
+    "os": "PPAH-LGRP2-OVS 10.1.1.246",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c4/v3/MMPJczFfSkuYSEPg7e_vhQ/full/filelist.xml"
+  },
+  {
+    "romId": "640013",
+    "time": "2022/05/06",
+    "model": "PPAH-L21 - C10",
+    "os": "PPAH-LGRP2-OVS 10.1.1.246",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c4/v3/MMPJczFfSkuYSEPg7e_vhQ/full/filelist.xml"
+  },
+  {
+    "romId": "640013",
+    "time": "2022/05/06",
+    "model": "PPAH-L22 - C185",
+    "os": "PPAH-LGRP2-OVS 10.1.1.246",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c4/v3/MMPJczFfSkuYSEPg7e_vhQ/full/filelist.xml"
+  },
+  {
+    "romId": "639854",
+    "time": "2022/06/14",
+    "model": "STK-L21UDV - C431",
+    "os": "STK-LGRP6-OVS 10.0.0.489",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7e/v3/honptq3UTOmQxxShyLIFUg/full/filelist.xml"
+  },
+  {
+    "romId": "639854",
+    "time": "2022/06/14",
+    "model": "STK-L21UDV - C432",
+    "os": "STK-LGRP6-OVS 10.0.0.489",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/7e/v3/honptq3UTOmQxxShyLIFUg/full/filelist.xml"
+  },
+  {
+    "romId": "639852",
+    "time": "2022/06/14",
+    "model": "STK-L21M - C432",
+    "os": "STK-LGRP6-OVS 10.0.0.490",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/36/v3/hv_gbRBoQcamHGePhWlJCQ/full/filelist.xml"
+  },
+  {
+    "romId": "639819",
+    "time": "2022/06/07",
+    "model": "PPAH-L22 - C432",
+    "os": "PPAH-LGRP2-OVS 10.1.1.246",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f2/v3/UyKJrN-KRRax-mGEIvv4Bw/full/filelist.xml"
+  },
+  {
+    "romId": "639818",
+    "time": "2022/05/23",
+    "model": "PPAH-L21 - C432",
+    "os": "PPAH-LGRP2-OVS 10.1.1.246",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/e9/v3/NorUvorWRHCS5n_gtEqlcw/full/filelist.xml"
+  },
+  {
+    "romId": "639806",
+    "time": "2022/05/07",
+    "model": "AGS3-W09 - C185",
+    "os": "AGS3-LGRP10-OVS 10.1.0.256",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/99/v3/MiFVmuEESOqCsyVYaVrVRg/full/filelist.xml"
+  },
+  {
+    "romId": "639804",
+    "time": "2022/05/07",
+    "model": "AGS3-W09 - C432",
+    "os": "AGS3-LGRP10-OVS 10.1.0.256",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c5/v3/yjMMj5NMTde9TE94ItRnTg/full/filelist.xml"
+  },
+  {
+    "romId": "639801",
+    "time": "2022/05/06",
+    "model": "AGS3-L09 - C185",
+    "os": "AGS3-LGRP8-OVS 10.1.0.256",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d9/v3/s0Ey1oCjSYqAuzHUy85VvQ/full/filelist.xml"
+  },
+  {
+    "romId": "639754",
+    "time": "2022/05/06",
+    "model": "AGS3-L09 - C432",
+    "os": "AGS3-LGRP8-OVS 10.1.0.256",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/9f/v3/gh9H6BtkSsGBx6qYO1qZgg/full/filelist.xml"
+  },
+  {
+    "romId": "639731",
+    "time": "2022/05/06",
+    "model": "AGS3-L09 - C10",
+    "os": "AGS3-LGRP8-OVS 10.1.0.256",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a3/v3/8WBFZadaRZe77VG-ORk4PA/full/filelist.xml"
+  },
+  {
+    "romId": "639711",
+    "time": "2022/05/07",
+    "model": "AGS3-W09 - C636",
+    "os": "AGS3-LGRP10-OVS 10.1.0.257",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a9/v3/aFXfWnXCR0OThd3t99B6aA/full/filelist.xml"
+  },
+  {
+    "romId": "639529",
+    "time": "2022/05/06",
+    "model": "MOA-L49 - C10",
+    "os": "MOA-LGRP2-OVS 3.1.0.263",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/77/v3/Jin1yA6iS_OEyaMPLVCGXw/full/filelist.xml"
+  },
+  {
+    "romId": "639504",
+    "time": "2022/05/18",
+    "model": "STK-L22HN - C675",
+    "os": "STK-LGRP8-OVS 10.0.0.363",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/pCzcTloYT1S5wR4Z1kLCZg/full/filelist.xml"
+  },
+  {
+    "romId": "639504",
+    "time": "2022/05/18",
+    "model": "STK-L23BHN - C636",
+    "os": "STK-LGRP8-OVS 10.0.0.363",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/fc/v3/pCzcTloYT1S5wR4Z1kLCZg/full/filelist.xml"
+  },
+  {
+    "romId": "639456",
+    "time": "2022/05/06",
+    "model": "AGRK-W29 - C432",
+    "os": "AGRK-W29-CUST 10.1.0.10(C432)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c2/v3/Zh4RT0AqSMaij6W52H7suA/full/filelist.xml"
+  },
+  {
+    "romId": "639455",
+    "time": "2022/05/06",
+    "model": "AGRK-W29 - C432",
+    "os": "AGRK-W29-PRELOAD 10.1.0.1(C432R1)",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/5c/v3/llA_RthPQqSY3ObmRxb2vg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29K - C185",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29K - C432",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29K - C10",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29 - C185",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29 - C636",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29 - C432",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639454",
+    "time": "2022/06/09",
+    "model": "AGRK-W29 - C10",
+    "os": "AGRK-LGRP10-OVS 10.1.0.101",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1d/v3/pVULdKCGTL2hJ77_JXSvFg/full/filelist.xml"
+  },
+  {
+    "romId": "639326",
+    "time": "2022/04/29",
+    "model": "MOA-L49 - C432",
+    "os": "MOA-LGRP2-OVS 3.1.0.263",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/1a/v3/WSUNsoFmQyuZeXkTiHW_5g/full/filelist.xml"
+  },
+  {
+    "romId": "639064",
+    "time": "2022/05/30",
+    "model": "MAR-L01A - C431",
+    "os": "MAR-LGRP2-OVS 10.0.0.562",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/2c/v3/hN3LDK4ATFSfwlCJFE2jpQ/full/filelist.xml"
+  },
+  {
+    "romId": "639061",
+    "time": "2022/06/27",
+    "model": "MAR-L21A - C431",
+    "os": "MAR-LGRP2-OVS 10.0.0.562",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c3/v3/eGks5LtRTIWfKcFX9aMlXg/full/filelist.xml"
+  },
+  {
+    "romId": "639061",
+    "time": "2022/06/27",
+    "model": "MAR-L21A - C432",
+    "os": "MAR-LGRP2-OVS 10.0.0.562",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c3/v3/eGks5LtRTIWfKcFX9aMlXg/full/filelist.xml"
+  },
+  {
+    "romId": "639043",
+    "time": "2022/06/10",
+    "model": "STK-L22DV - C636",
+    "os": "STK-LGRP6-OVS 10.0.0.485",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d2/v3/8_wPyP5wQ3Ch-YVWem0iMQ/full/filelist.xml"
+  },
+  {
+    "romId": "639031",
+    "time": "2022/05/18",
+    "model": "STK-L22DV - C675",
+    "os": "STK-LGRP6-OVS 10.0.0.486",
+    "region": "hw-in",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8a/v3/oR8_DRf1T7uR8zjXyh2RiQ/full/filelist.xml"
+  },
+  {
+    "romId": "639025",
+    "time": "2022/05/13",
+    "model": "MED-L29 - C636",
+    "os": "MED-LGRP2-OVS 10.1.0.295",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/72/v3/FgvdDFgGTj2daxWPzjN5oA/full/filelist.xml"
+  },
+  {
+    "romId": "639007",
+    "time": "2022/05/24",
+    "model": "ARTH-L29 - C185",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/88/v3/aFGIz3LjQnOn1RyUaXFF7Q/full/filelist.xml"
+  },
+  {
+    "romId": "638956",
+    "time": "2022/07/05",
+    "model": "MAR-L01B - C431",
+    "os": "MAR-LGRP2-OVS 10.0.0.563",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/87/v3/MusNp0g5QOy-M29YWERUSA/full/filelist.xml"
+  },
+  {
+    "romId": "638954",
+    "time": "2022/07/05",
+    "model": "MAR-L21B - C431",
+    "os": "MAR-LGRP2-OVS 10.0.0.563",
+    "region": "hw-eea",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/83/v3/M6c-tjQaT0GEXwGXTDWqkA/full/filelist.xml"
+  },
+  {
+    "romId": "638954",
+    "time": "2022/07/05",
+    "model": "MAR-L21B - C432",
+    "os": "MAR-LGRP2-OVS 10.0.0.563",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/83/v3/M6c-tjQaT0GEXwGXTDWqkA/full/filelist.xml"
+  },
+  {
+    "romId": "638937",
+    "time": "2022/05/06",
+    "model": "AKA-L29 - C185",
+    "os": "AKA-LGRP2-OVS 3.1.0.158",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b6/v3/O0dlWL9LTPu2GYOwDHRW8A/full/filelist.xml"
+  },
+  {
+    "romId": "638937",
+    "time": "2022/05/06",
+    "model": "AKA-L29 - C10",
+    "os": "AKA-LGRP2-OVS 3.1.0.158",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/b6/v3/O0dlWL9LTPu2GYOwDHRW8A/full/filelist.xml"
+  },
+  {
+    "romId": "638923",
+    "time": "2022/06/14",
+    "model": "MAR-L21B - C10",
+    "os": "MAR-LGRP2-OVS 10.0.0.560",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/a0/v3/TpC9XD-hR8OKdzctc-cPPw/full/filelist.xml"
+  },
+  {
+    "romId": "638432",
+    "time": "2022/05/12",
+    "model": "ARTH-L29N - C432",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/65/v3/zxZkROhxQyKdLre8D3sIMw/full/filelist.xml"
+  },
+  {
+    "romId": "638432",
+    "time": "2022/05/12",
+    "model": "ARTH-L29 - C432",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/65/v3/zxZkROhxQyKdLre8D3sIMw/full/filelist.xml"
+  },
+  {
+    "romId": "638414",
+    "time": "2022/06/06",
+    "model": "BAH3-W59 - C185",
+    "os": "BAH3-W59-CUST 102.0.0.3(C185)",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d4/v3/pu_n8wblTYGcuMRxyVTtfA/full/filelist.xml"
+  },
+  {
+    "romId": "638398",
+    "time": "2022/06/27",
+    "model": "BAH3-W59 - C185",
+    "os": "BAH3-LGRP8-OVS 102.0.0.241",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/Yf5yWSL_TLKgfxxjD7RzDA/full/filelist.xml"
+  },
+  {
+    "romId": "638398",
+    "time": "2022/06/27",
+    "model": "BAH3-W59 - C636",
+    "os": "BAH3-LGRP8-OVS 102.0.0.241",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/Yf5yWSL_TLKgfxxjD7RzDA/full/filelist.xml"
+  },
+  {
+    "romId": "638398",
+    "time": "2022/06/27",
+    "model": "BAH3-W59 - C432",
+    "os": "BAH3-LGRP8-OVS 102.0.0.241",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/d0/v3/Yf5yWSL_TLKgfxxjD7RzDA/full/filelist.xml"
+  },
+  {
+    "romId": "638357",
+    "time": "2022/04/29",
+    "model": "ARTH-L29N - C185",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/98/v3/HthOyrlEQyCMF9Xo-4YDlQ/full/filelist.xml"
+  },
+  {
+    "romId": "638357",
+    "time": "2022/04/29",
+    "model": "ARTH-L29N - C10",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/98/v3/HthOyrlEQyCMF9Xo-4YDlQ/full/filelist.xml"
+  },
+  {
+    "romId": "638357",
+    "time": "2022/04/29",
+    "model": "ARTH-L29 - C10",
+    "os": "ART-LGRP2-OVS 10.1.0.248",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/98/v3/HthOyrlEQyCMF9Xo-4YDlQ/full/filelist.xml"
+  },
+  {
+    "romId": "638269",
+    "time": "2022/05/18",
+    "model": "ANA-L04 - C792",
+    "os": "ANA-LGRP2-OVS 11.0.0.248",
+    "region": "hw-ca",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/c8/v3/lXlAj7YrSvKlqqlYdcruYg/full/filelist.xml"
+  },
+  {
+    "romId": "638218",
+    "time": "2022/05/31",
+    "model": "DRA-L29 - C432",
+    "os": "DRA-LGRP2-OVS 10.1.0.260",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/30/v3/9EBJ9lcOTgqlxNytF1Zztg/full/filelist.xml"
+  },
+  {
+    "romId": "637975",
+    "time": "2022/06/13",
+    "model": "MAR-L22BX - C636",
+    "os": "MAR-LGRP2-OVS 10.0.0.561",
+    "region": "hw-spcseas",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/95/v3/LJ6sY17TQ5iZUpD-3jx1kg/full/filelist.xml"
+  },
+  {
+    "romId": "637964",
+    "time": "2022/04/25",
+    "model": "DUA-L29 - C432",
+    "os": "DUA-LGRP4-OVS 3.1.0.180",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/57/v3/aeH0nhqORx6JGfXTr--Tkg/full/filelist.xml"
+  },
+  {
+    "romId": "637914",
+    "time": "2022/04/26",
+    "model": "MOA-L49 - C185",
+    "os": "MOA-LGRP2-OVS 3.1.0.265",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/14/v3/cwD0Yo4PRKeMc5QBhBNjow/full/filelist.xml"
+  },
+  {
+    "romId": "637914",
+    "time": "2022/04/26",
+    "model": "MOA-L49I - C185",
+    "os": "MOA-LGRP2-OVS 3.1.0.265",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/14/v3/cwD0Yo4PRKeMc5QBhBNjow/full/filelist.xml"
+  },
+  {
+    "romId": "637886",
+    "time": "2022/07/01",
+    "model": "MRX-W29 - C432",
+    "os": "MRX-LGRP8-OVS 102.0.0.241",
+    "region": "hw-eu",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/f7/v3/TOtf3q7UTmCeZC1I8au9lQ/full/filelist.xml"
+  },
+  {
+    "romId": "637869",
+    "time": "2022/04/26",
+    "model": "DRA-L29 - C10",
+    "os": "DRA-LGRP2-OVS 10.1.0.260",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/-OqjqL4aTGqW2Ngmmu6teQ/full/filelist.xml"
+  },
+  {
+    "romId": "637866",
+    "time": "2022/05/11",
+    "model": "DRA-L29 - C185",
+    "os": "DRA-LGRP2-OVS 10.1.0.260",
+    "region": "hw-meafnaf",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/29/v3/rfnZMFUpRqiOiwaNLB0SKg/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-AL20 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-TL00 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-TL00 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-AL00 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-AL20 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-AL20 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-TL00 - C01",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "cmcc-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-AL00 - C00",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637814",
+    "time": "2022/05/11",
+    "model": "MED-AL00 - C700",
+    "os": "MED-LGRP1-CHN 10.1.0.221",
+    "region": "all-cn",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/8c/v3/LYqsWmu8QGC8o4P2X5PRNA/full/filelist.xml"
+  },
+  {
+    "romId": "637749",
+    "time": "2022/04/26",
+    "model": "LRA-L21B - C10",
+    "os": "LRA-LGRP2-OVS 3.1.0.147",
+    "region": "hw-ru",
+    "link": "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/96/v3/DqXJGetNSceDFn3Gvmnc_g/full/filelist.xml"
+  }
+]
