@@ -4,12 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "vite",
+    "start": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false"
   },
   "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
     "@jobinsjp/vue3-datatable": "^1.0.15",
     "ant-design-vue": "^4.0.6",
     "vue": "^3.3.4",

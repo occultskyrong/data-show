@@ -1,73 +1,64 @@
 <template>
-  <a-table :data-source="data" :columns="columns" :pagination="{ pageSize: 50 }">
-    <template #headerCell="{ column }">
-      <template v-if="column.key === 'romId'">
-        <span style="color: #1890ff">RomId</span>
+  <div>
+    <a-typography-title class="t-title">数据展示</a-typography-title>
+    <div class="t-form">
+      <a-form ref="formRef" layout="inline" :model="formState">
+        <a-form-item label="RomID">
+          <a-input v-model:value="formState.romId" placeholder="input DomID" />
+        </a-form-item>
+        <a-form-item label="Model">
+          <a-input v-model:value="formState.model" placeholder="input Model" />
+        </a-form-item>
+        <a-form-item label="OS">
+          <a-input v-model:value="formState.os" placeholder="input OS" />
+        </a-form-item>
+        <a-form-item label="Region">
+          <a-input v-model:value="formState.region" placeholder="input Region" />
+        </a-form-item>
+        <a-form-item>
+          <a-button type="primary" @click="handleSubmit">搜索</a-button>
+          <a-button style="margin-left: 10px" @click="resetForm">重置</a-button>
+        </a-form-item>
+      </a-form>
+    </div>
+    <a-table :data-source="data" :columns="columns" :pagination="{ pageSize: 50 }">
+      <template #bodyCell="{ record, column }">
+        <span v-if="column.key === 'link'">
+          <a-button type="primary" :href="record.link" target="_black">FileList</a-button>
+        </span>
       </template>
-    </template>
-    <template #customFilterDropdown="{ setSelectedKeys, selectedKeys, confirm, clearFilters, column }">
-      <div style="padding: 8px">
-        <a-input ref="searchInput" :placeholder="`Search ${column.dataIndex}`" :value="selectedKeys[0]"
-          style="width: 188px; margin-bottom: 8px; display: block"
-          @change="(e: any) => setSelectedKeys(e.target.value ? [e.target.value] : [])"
-          @pressEnter="handleSearch(selectedKeys, confirm, column.dataIndex)" />
-        <a-button type="primary" size="small" style="width: 90px; margin-right: 8px"
-          @click="handleSearch(selectedKeys, confirm, column.dataIndex)">
-          <template #icon>
-            <SearchOutlined />
-          </template>
-          Search
-        </a-button>
-        <a-button size="small" style="width: 90px" @click="handleReset(clearFilters)">
-          Reset
-        </a-button>
-      </div>
-    </template>
-    <template #customFilterIcon="{ filtered }">
-      <search-outlined :style="{ color: filtered ? '#108ee9' : undefined }" />
-    </template>
-    <template #bodyCell="{ text, record, column }">
-      <span v-if="state.searchText && state.searchedColumn === column.dataIndex">
-        <template v-for="(fragment, i) in text
-          .toString()
-          .split(new RegExp(`(?<=${state.searchText})|(?=${state.searchText})`, 'i'))">
-          <mark v-if="fragment.toLowerCase() === state.searchText.toLowerCase()" :key="i" class="highlight">
-            {{ fragment }}
-          </mark>
-          <template v-else>{{ fragment }}</template>
-        </template>
-      </span>
-      <span v-else-if="column.key === 'link'">
-        <a-button type="primary" :href="record.link" target="_black">FileList</a-button>
-      </span>
-    </template>
-  </a-table>
+    </a-table>
+  </div>
 </template>
 
 <script lang="ts" setup>
-import { SearchOutlined } from '@ant-design/icons-vue';
-import { reactive, ref } from 'vue';
-import data from './data.json';
 
-const state = reactive({
-  searchText: '',
-  searchedColumn: '',
+import { reactive, ref } from 'vue';
+import type { FormInstance } from 'ant-design-vue';
+import orignalData from './data.json';
+
+interface FormState {
+  romId: string;
+  model: string;
+  os: string;
+  region: string;
+}
+
+const formRef = ref<FormInstance>();
+const formState: any = reactive<FormState>({
+  romId: '',
+  model: '',
+  os: '',
+  region: '',
 });
 
-const searchInput = ref();
+const data = ref(orignalData);
 
 const columns = [
   {
     title: 'RomId',
     dataIndex: 'romId',
     key: 'romId',
-    customFilterDropdown: true,
-    onFilter: (value: any, record: any) => record.romId.toString().toLowerCase().includes(value.toLowerCase()),
-    onFilterDropdownOpenChange: (visible: any) => {
-      if (visible) {
-        setTimeout(() => { searchInput.value.focus(); }, 100);
-      }
-    },
   },
   {
     title: 'Time',
@@ -78,37 +69,16 @@ const columns = [
     title: 'Model',
     dataIndex: 'model',
     key: 'model',
-    customFilterDropdown: true,
-    onFilter: (value: any, record: any) => record.address.toString().toLowerCase().includes(value.toLowerCase()),
-    onFilterDropdownOpenChange: (visible: any) => {
-      if (visible) {
-        setTimeout(() => { searchInput.value.focus(); }, 100);
-      }
-    },
   },
   {
     title: 'OS',
     dataIndex: 'os',
     key: 'os',
-    customFilterDropdown: true,
-    onFilter: (value: any, record: any) => record.address.toString().toLowerCase().includes(value.toLowerCase()),
-    onFilterDropdownOpenChange: (visible: any) => {
-      if (visible) {
-        setTimeout(() => { searchInput.value.focus(); }, 100);
-      }
-    },
   },
   {
     title: 'Region',
     dataIndex: 'region',
     key: 'region',
-    customFilterDropdown: true,
-    onFilter: (value: any, record: any) => record.address.toString().toLowerCase().includes(value.toLowerCase()),
-    onFilterDropdownOpenChange: (visible: any) => {
-      if (visible) {
-        setTimeout(() => { searchInput.value.focus(); }, 100);
-      }
-    },
   },
   {
     title: 'FileList',
@@ -117,16 +87,44 @@ const columns = [
   },
 ];
 
-const handleSearch = (selectedKeys: any, confirm: any, dataIndex: any) => {
-  confirm();
-  state.searchText = selectedKeys[0];
-  state.searchedColumn = dataIndex;
+const handleSubmit = () => {
+  const keys = ['romId', 'model', 'os', 'region'];
+  let __resultData: any = [];
+  const filters: any = [];
+
+  for (let key of keys) {
+    const v = formState[key]
+    if (v) {
+      filters.push([key, v]);
+    }
+  }
+
+  if (filters.length) {
+    orignalData.forEach((item: any) => {
+      let rr = true;
+      for (let filter of filters) {
+        const key = filter[0];
+        const v = filter[1].toString().toLowerCase();
+        if (!(item[key].toString().toLowerCase().includes(v))) {
+          rr = false;
+          break;
+        }
+      }
+      if (rr) {
+        __resultData.push(item);
+      }
+    });
+    data.value = __resultData;
+  } else {
+    data.value = orignalData;
+  }
+}
+
+const resetForm = () => {
+  // TODO:无效果
+  formRef.value.resetFields();
 };
 
-const handleReset = (clearFilters: any) => {
-  clearFilters({ confirm: true });
-  state.searchText = '';
-};
 </script>
 
 
@@ -134,5 +132,13 @@ const handleReset = (clearFilters: any) => {
 .highlight {
   background-color: rgb(255, 192, 105);
   padding: 0px;
+}
+
+.t-title {
+  text-align: center;
+}
+
+.t-form {
+  margin: 20px 40px;
 }
 </style>
