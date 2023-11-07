@@ -2,7 +2,7 @@
   <div>
     <a-typography-title class="t-title">数据展示</a-typography-title>
     <div class="t-form">
-      <a-form ref="formRef" layout="inline" :model="formState">
+      <a-form layout="inline" :model="formState">
         <a-form-item label="RomID">
           <a-input v-model:value="formState.romId" placeholder="input DomID" />
         </a-form-item>
@@ -34,7 +34,6 @@
 <script lang="ts" setup>
 
 import { reactive, ref } from 'vue';
-import type { FormInstance } from 'ant-design-vue';
 import orignalData from './data.json';
 
 interface FormState {
@@ -44,7 +43,6 @@ interface FormState {
   region: string;
 }
 
-const formRef = ref<FormInstance>();
 const formState: any = reactive<FormState>({
   romId: '',
   model: '',
@@ -87,8 +85,9 @@ const columns = [
   },
 ];
 
+const keys = ['romId', 'model', 'os', 'region'];
+
 const handleSubmit = () => {
-  const keys = ['romId', 'model', 'os', 'region'];
   let __resultData: any = [];
   const filters: any = [];
 
@@ -121,8 +120,9 @@ const handleSubmit = () => {
 }
 
 const resetForm = () => {
-  // TODO:无效果
-  formRef.value.resetFields();
+  keys.forEach(k => {
+    formState[k] = '';
+  })
 };
 
 </script>
